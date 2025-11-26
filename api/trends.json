@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-26T17:14:32.932763+08:00",
-  "total_titles_processed": 1504,
+  "generated_at": "2025-11-26T18:14:19.930414+08:00",
+  "total_titles_processed": 1588,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 77,
+      "match_count": 78,
       "titles": [
         {
           "title": "【早报】特朗普：俄乌和平协议已“非常接近达成”；商业航天，迎来政策利好",
@@ -53,8 +53,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时52分 ~ 17时14分]"
+          "appearance_count": 15,
+          "time_info": "[08时52分 ~ 18时14分]"
         },
         {
           "title": "快评｜特朗普与中方通话后致电高市早苗，专家：“背后信号不言自明”",
@@ -62,11 +62,12 @@
           "source": "澎湃新闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时52分 ~ 17时14分]"
+          "appearance_count": 15,
+          "time_info": "[08时52分 ~ 18时14分]"
         },
         {
           "title": "与特朗普通话是否谈及涉台言论？高市早苗：不便透露",
@@ -139,6 +140,30 @@
           "time_info": "[08时52分 ~ 15时13分]"
         },
         {
+          "title": "中方是否请特朗普向高市传口信？外交部回应",
+          "url": "https://news.ifeng.com/c/8ob5EHhrFDx",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时16分 ~ 18时14分]"
+        },
+        {
+          "title": "中方回应是否请特朗普向高市传口信",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E8%AF%B7%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E9%AB%98%E5%B8%82%E4%BC%A0%E5%8F%A3%E4%BF%A1",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时16分 ~ 18时14分]"
+        },
+        {
           "title": "胡锡进：台海与中日危机，特朗普的沉默震耳欲聋",
           "url": "https://news.ifeng.com/c/8oZtlTWZHWZ",
           "source": "凤凰网",
@@ -187,18 +212,6 @@
           "time_info": "[10时29分 ~ 13时12分]"
         },
         {
-          "title": "中方是否请特朗普向高市传口信？外交部回应",
-          "url": "https://news.ifeng.com/c/8ob5EHhrFDx",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时16分 ~ 17时14分]"
-        },
-        {
           "title": "特朗普在白宫赦免火鸡 引全场爆笑",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E7%99%BD%E5%AE%AB%E8%B5%A6%E5%85%8D%E7%81%AB%E9%B8%A1+%E5%BC%95%E5%85%A8%E5%9C%BA%E7%88%86%E7%AC%91",
           "source": "百度热搜",
@@ -227,18 +240,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[08时52分 ~ 13时12分]"
-        },
-        {
-          "title": "中方回应是否请特朗普向高市传口信",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E8%AF%B7%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E9%AB%98%E5%B8%82%E4%BC%A0%E5%8F%A3%E4%BF%A1",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时16分 ~ 17时14分]"
         },
         {
           "title": "特朗普想把特赦火鸡命名为佩洛西",
@@ -283,6 +284,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时52分"
+        },
+        {
+          "title": "特朗普称将派特使赴俄见普京，俄外长：我们不着急",
+          "url": "https://news.ifeng.com/c/8ob5wP7MZv7",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时16分 ~ 18时14分]"
+        },
+        {
+          "title": "特朗普感恩节特赦火鸡",
+          "url": "https://www.douyin.com/hot/2318026",
+          "source": "抖音",
+          "ranks": [
+            18,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时14分 ~ 18时14分]"
         },
         {
           "title": "特朗普：俄乌和平协议已非常接近达成",
@@ -451,17 +475,6 @@
           "time_info": "[15时13分 ~ 17时14分]"
         },
         {
-          "title": "特朗普称将派特使赴俄见普京，俄外长：我们不着急",
-          "url": "https://news.ifeng.com/c/8ob5wP7MZv7",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时16分 ~ 17时14分]"
-        },
-        {
           "title": "特朗普：俄乌和平协议非常接近达成",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BF%84%E4%B9%8C%E5%92%8C%E5%B9%B3%E5%8D%8F%E8%AE%AE%E9%9D%9E%E5%B8%B8%E6%8E%A5%E8%BF%91%E8%BE%BE%E6%88%90",
           "source": "百度热搜",
@@ -472,6 +485,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时52分 ~ 10时30分]"
+        },
+        {
+          "title": "特朗普作出让步",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%BD%9C%E5%87%BA%E8%AE%A9%E6%AD%A5%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时14分 ~ 18时14分]"
         },
         {
           "title": "美国总统特朗普：我认为接近达成乌克兰（和平）协议。 认为在结束乌克兰境内战事方面取得进展。",
@@ -581,6 +606,29 @@
           "time_info": "[01时14分 ~ 02时18分]"
         },
         {
+          "title": "特朗普 先达成协议再说",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%20%E5%85%88%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE%E5%86%8D%E8%AF%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 18时14分]"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：欧洲必须继续向俄罗斯施压。 俄罗斯的策略没有改变。 欢迎美国总统特朗普所领导的努力。 需要更多努力。 不会接受对乌克兰武装部队的限制。 和平条约需要保障长期安全。",
+          "url": "https://wallstreetcn.com/livenews/3010763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时14分 ~ 18时14分]"
+        },
+        {
           "title": "特朗普的沉默让日本失望了",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E6%B2%89%E9%BB%98%E8%AE%A9%E6%97%A5%E6%9C%AC%E5%A4%B1%E6%9C%9B%E4%BA%86%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -634,17 +682,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
-        },
-        {
-          "title": "特朗普作出让步",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%BD%9C%E5%87%BA%E8%AE%A9%E6%AD%A5%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时14分"
         },
         {
           "title": "特朗普：我们准备进军芝加哥，我们可以在4周内让芝加哥成为一座安全的城市。",
@@ -746,17 +783,6 @@
           "time_info": "10时30分"
         },
         {
-          "title": "特朗普感恩节特赦火鸡",
-          "url": "https://www.douyin.com/hot/2318026",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时14分"
-        },
-        {
           "title": "刚见面不久特朗普为何急着和中方通话",
           "url": "https://www.toutiao.com/trending/7575911692447055908/",
           "source": "今日头条",
@@ -766,17 +792,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
-        },
-        {
-          "title": "欧盟委员会主席冯德莱恩：欧洲必须继续向俄罗斯施压。 俄罗斯的策略没有改变。 欢迎美国总统特朗普所领导的努力。 需要更多努力。 不会接受对乌克兰武装部队的限制。 和平条约需要保障长期安全。",
-          "url": "https://wallstreetcn.com/livenews/3010763",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时14分"
         },
         {
           "title": "美国总统特朗普：与日本领导人进行了良好的会谈。",
@@ -925,7 +940,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
@@ -936,8 +951,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时52分 ~ 17时14分]"
+          "appearance_count": 15,
+          "time_info": "[08时52分 ~ 18时14分]"
         },
         {
           "title": "美股收盘：纳指逆转1%跌幅收涨 谷歌创新高市值逼近4万亿美元",
@@ -995,8 +1010,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时29分 ~ 17时14分]"
+          "appearance_count": 14,
+          "time_info": "[10时29分 ~ 18时14分]"
         },
         {
           "title": "性能硬刚Blackwell、能效吊打GPU，一文深度拆解谷歌TPU“真实战力”",
@@ -1059,8 +1074,22 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时18分 ~ 18时14分]"
+        },
+        {
+          "title": "Gemini+TPU双线破局！顶级科技投资人“火上浇油”：七巨头中Alphabet最值得持有",
+          "url": "https://www.cls.cn/detail/2211111",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            12,
+            10
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[14时18分 ~ 17时14分]"
+          "time_info": "[13时12分 ~ 18时14分]"
         },
         {
           "title": "英伟达：我们的GPU比谷歌的AI芯片领先一代",
@@ -1114,17 +1143,15 @@
           "time_info": "[00时15分 ~ 01时14分]"
         },
         {
-          "title": "Gemini+TPU双线破局！顶级科技投资人“火上浇油”：七巨头中Alphabet最值得持有",
-          "url": "https://www.cls.cn/detail/2211111",
-          "source": "财联社热门",
+          "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
+          "url": "https://wallstreetcn.com/articles/3760114",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            11,
-            12
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时12分 ~ 17时14分]"
+          "appearance_count": 3,
+          "time_info": "[17时14分 ~ 18时14分]"
         },
         {
           "title": "美股收盘：谷歌市值逼近4万亿美元",
@@ -1137,6 +1164,41 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时52分 ~ 10时30分]"
+        },
+        {
+          "title": "美股盘前，戴尔科技涨超4%，公司三季度营收不及预期但AI订单激增，全年AI服务器出货目标上调至250亿美元。博通涨约1%，谷歌A涨约1%，甲骨文涨0.1%，英伟达跌0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3010785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时14分 ~ 18时14分]"
+        },
+        {
+          "title": "【供货谷歌？中际旭创股价创历史新高，公司回应】11月26日，中际旭创大涨13.25%，报收543.22元/股，成交额达329.8亿元居A股第一，总市值破6000亿元大关，年内涨幅超342%。盘面上，CPO板块集体异动，“易中天”携手走强。有市场消息称，中际旭创是谷歌光模块供应商。中际旭创相关人士表示，公司本次股价上涨受综合因素影响，至于公司的“具体合作包括订单都不方便透露”。（21财经）",
+          "url": "https://wallstreetcn.com/livenews/3010775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时14分 ~ 18时14分]"
+        },
+        {
+          "title": "Gemini 3 发布是否预示着程序员真正可以被替代？",
+          "url": "https://www.zhihu.com/theater/73901?drama_id=1977055301153857730&source=isuda",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 18时14分]"
         },
         {
           "title": "如何评价谷歌 TPU 业务？",
@@ -1162,17 +1224,6 @@
           "time_info": "[12时18分 ~ 13时12分]"
         },
         {
-          "title": "美股盘前，戴尔科技涨超4%，公司三季度营收不及预期但AI订单激增，全年AI服务器出货目标上调至250亿美元。博通涨约1%，谷歌A涨约1%，甲骨文涨0.1%，英伟达跌0.5%。",
-          "url": "https://wallstreetcn.com/livenews/3010785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时14分"
-        },
-        {
           "title": "谷歌AI平台全球第一 火山引擎中国第一",
           "url": "https://www.toutiao.com/trending/7576941585242505243/",
           "source": "今日头条",
@@ -1182,28 +1233,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
-        },
-        {
-          "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
-          "url": "https://wallstreetcn.com/articles/3760114",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时14分"
-        },
-        {
-          "title": "【供货谷歌？中际旭创股价创历史新高，公司回应】11月26日，中际旭创大涨13.25%，报收543.22元/股，成交额达329.8亿元居A股第一，总市值破6000亿元大关，年内涨幅超342%。盘面上，CPO板块集体异动，“易中天”携手走强。有市场消息称，中际旭创是谷歌光模块供应商。中际旭创相关人士表示，公司本次股价上涨受综合因素影响，至于公司的“具体合作包括订单都不方便透露”。（21财经）",
-          "url": "https://wallstreetcn.com/livenews/3010775",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时14分"
         },
         {
           "title": "谷歌状态页面显示亚洲地区谷歌会议（Google Meet）服务出现问题。",
@@ -1260,17 +1289,6 @@
           "time_info": "06时12分"
         },
         {
-          "title": "理想汽车美股盘前跌超4%，公司对第四季度营收指引低于市场预估。",
-          "url": "https://wallstreetcn.com/livenews/3010788",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时14分"
-        },
-        {
           "title": "WTI原油期货约3%，报57.10美元/桶，美股盘前消息，美国官员称乌克兰同意和平协议条款。 布伦特原油跌破61美元/桶关口，报60.96美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3010317",
           "source": "华尔街见闻-快讯",
@@ -1293,6 +1311,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时18分 ~ 03时10分]"
+        },
+        {
+          "title": "理想汽车美股盘前跌超4%，公司对第四季度营收指引低于市场预估。",
+          "url": "https://wallstreetcn.com/livenews/3010788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时14分 ~ 18时14分]"
         },
         {
           "title": "金十图示：2025年11月25日（周二）热门中概股行情一览（美股盘中）",
@@ -1418,6 +1448,58 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "OpenAI：法院已经对诉讼有全面的掌握，这很重要。 回应包括Adam精神健康方面的事实。",
+          "url": "https://wallstreetcn.com/livenews/3010381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时14分 ~ 06时12分]"
+        },
+        {
+          "title": "“AI投资潮”应刹车？OpenAI联合创始人：规模化到头了，应回归研究！",
+          "url": "https://www.cls.cn/detail/2211503",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 18时14分]"
+        },
+        {
+          "title": "OpenAI：持续改进ChatGPT的训练，以识别并回应心理或情绪困扰的迹象。",
+          "url": "https://flash.jin10.com/detail/20251126040323241800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "软银股价较峰值下滑40%，显示市场对OpenAI的担忧",
+          "url": "https://flash.jin10.com/detail/20251126153143429800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 4,
       "titles": [
@@ -1465,47 +1547,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI：法院已经对诉讼有全面的掌握，这很重要。 回应包括Adam精神健康方面的事实。",
-          "url": "https://wallstreetcn.com/livenews/3010381",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时14分 ~ 06时12分]"
-        },
-        {
-          "title": "OpenAI：持续改进ChatGPT的训练，以识别并回应心理或情绪困扰的迹象。",
-          "url": "https://flash.jin10.com/detail/20251126040323241800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "软银股价较峰值下滑40%，显示市场对OpenAI的担忧",
-          "url": "https://flash.jin10.com/detail/20251126153143429800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时17分"
         }
       ]
     },
@@ -1563,6 +1604,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时18分 ~ 03时10分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "伊朗外交部：伊朗外交部长出发前往法国。",
+          "url": "https://flash.jin10.com/detail/20251126180330403800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         }
       ]
     }
