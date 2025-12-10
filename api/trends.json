@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T21:32:24.734474+08:00",
-  "total_titles_processed": 1995,
+  "generated_at": "2025-12-10T22:49:03.394224+08:00",
+  "total_titles_processed": 2094,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 76,
+      "match_count": 77,
       "titles": [
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -243,7 +243,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -265,7 +265,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -342,6 +342,17 @@
           "time_info": "[05时10分 ~ 06时12分]"
         },
         {
+          "title": "洪都拉斯现任总统：由于特朗普“干预选举”，此次大选“无效”",
+          "url": "https://news.ifeng.com/c/8oyaoHd0S2N",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时23分 ~ 22时49分]"
+        },
+        {
           "title": "美国总统特朗普将于本周启动美联储主席人选的最后一轮面试。",
           "url": "https://flash.jin10.com/detail/20251210055642373800",
           "source": "金十数据",
@@ -404,6 +415,18 @@
           "time_info": "[19时11分 ~ 21时32分]"
         },
         {
+          "title": "特朗普夸白宫发言人漂亮",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%B8%E7%99%BD%E5%AE%AB%E5%8F%91%E8%A8%80%E4%BA%BA%E6%BC%82%E4%BA%AE",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时32分 ~ 22时49分]"
+        },
+        {
           "title": "美国企业界对特朗普执政表现评价不高",
           "url": "https://www.toutiao.com/trending/7581666417361092614/",
           "source": "今日头条",
@@ -448,17 +471,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时14分 ~ 14时19分]"
-        },
-        {
-          "title": "洪都拉斯现任总统：由于特朗普“干预选举”，此次大选“无效”",
-          "url": "https://news.ifeng.com/c/8oyaoHd0S2N",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时23分 ~ 21时32分]"
         },
         {
           "title": "特朗普放话：降息将是新任美联储主席的试金石",
@@ -663,6 +675,17 @@
           "time_info": "12时17分"
         },
         {
+          "title": "美国法官叫停特朗普在洛杉矶部署国民警卫队的行动。",
+          "url": "https://flash.jin10.com/detail/20251210221531501800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "特朗普厕所门口受访被人推门撞到",
           "url": "https://www.toutiao.com/trending/7582097221663936046/",
           "source": "今日头条",
@@ -801,7 +824,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -837,17 +860,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
-        },
-        {
-          "title": "特朗普夸白宫发言人漂亮",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%B8%E7%99%BD%E5%AE%AB%E5%8F%91%E8%A8%80%E4%BA%BA%E6%BC%82%E4%BA%AE",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
         },
         {
           "title": "路透社/益普索民意调查发现，近一半的美国人反对特朗普政府在加勒比海和东太平洋对船只进行致命袭击，只有三分之一的人支持。",
@@ -897,7 +909,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 22,
       "titles": [
         {
           "title": "美股收盘：三大股指涨跌不一 摩根大通成本预警施压大盘",
@@ -948,6 +960,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
+        },
+        {
+          "title": "金十图示：2025年12月10日（周三）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251210223635450800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "全球航空业ETF美股盘初涨0.36%，与可选消费ETF领跑行业ETF，网络股指数ETF跌0.16%，半导体ETF跌0.28%，科技行业ETF跌0.44%，全球科技股指数ETF跌0.56%。",
+          "url": "https://wallstreetcn.com/livenews/3018507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "美国芝加哥商业交易所（CME）集团数据中心的服务商CyrusOne在（美股）市场开盘之前12个小时（美国中部时间04:19）开始出现故障。 CME数据中心时间线包括秘密递交报告。",
@@ -1009,13 +1043,46 @@
           "time_info": "05时10分"
         },
         {
+          "title": "美股开盘，道指平开，标普500指数跌0.05%，纳指跌0.18%。阿里巴巴(BABA.N)涨2.18%，Meta Platforms(META.O)跌0.75%，据悉Meta转向闭源模型，且使用通义模型优化了新AI模型Avocado。游戏驿站(GME.N)跌6.1%，其第三季度营收未达预期。",
+          "url": "https://flash.jin10.com/detail/20251210223034794800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "阿里巴巴美股盘前涨超4%，百度涨2.2%；Meta Platforms盘前跌1%。",
+          "url": "https://wallstreetcn.com/livenews/3018495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3018491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "光掩模供应商Photronics美股盘前大涨15%，公司第一季度营收预期超出预期。",
           "url": "https://wallstreetcn.com/livenews/3018453",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -1084,6 +1151,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-12-10）",
+          "url": "https://flash.jin10.com/detail/20251210214414427800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         }
       ]
     },
@@ -1124,7 +1202,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -1157,7 +1235,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -1179,7 +1257,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -1267,7 +1345,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         }
@@ -1285,8 +1363,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时55分 ~ 21时32分]"
+          "appearance_count": 17,
+          "time_info": "[08时55分 ~ 22时49分]"
         },
         {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
