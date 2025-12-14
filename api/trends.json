@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T12:34:39.802163+08:00",
-  "total_titles_processed": 780,
+  "generated_at": "2025-12-14T13:13:46.599197+08:00",
+  "total_titles_processed": 824,
   "failed_sources": [],
   "trends": [
     {
@@ -103,6 +103,17 @@
           "time_info": "[00时13分 ~ 09时00分]"
         },
         {
+          "title": "泰外长：特朗普的言论令人失望，伤害了泰国人民的感情",
+          "url": "https://news.ifeng.com/c/8p4UvIdlABH",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时58分 ~ 13时13分]"
+        },
+        {
           "title": "美国与墨西哥达成供水协议，此前特朗普威胁要加征5%的关税",
           "url": "https://wallstreetcn.com/livenews/3020265",
           "source": "华尔街见闻-快讯",
@@ -114,17 +125,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时10分 ~ 09时00分]"
-        },
-        {
-          "title": "泰外长：特朗普的言论令人失望，伤害了泰国人民的感情",
-          "url": "https://news.ifeng.com/c/8p4UvIdlABH",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时58分 ~ 12时34分]"
         },
         {
           "title": "详解特朗普金卡白金卡签证",
@@ -139,17 +139,6 @@
           "time_info": "[11时58分 ~ 12时34分]"
         },
         {
-          "title": "美布朗大学枪击案已致2死8重伤，特朗普最新发声",
-          "url": "https://news.ifeng.com/c/8p4RL9idhva",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时59分 ~ 09时00分]"
-        },
-        {
           "title": "特朗普对其经济政策能否助力中期选举存疑",
           "url": "https://flash.jin10.com/detail/20251214101831272800",
           "source": "金十数据",
@@ -158,8 +147,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时58分 ~ 12时34分]"
+          "appearance_count": 4,
+          "time_info": "[10时58分 ~ 13时13分]"
         },
         {
           "title": "3名美方人员遇袭身亡，特朗普：我们会报复",
@@ -169,8 +158,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时59分 ~ 12时34分]"
+          "appearance_count": 6,
+          "time_info": "[08时59分 ~ 13时13分]"
         },
         {
           "title": "美三名人员在叙利亚丧生 特朗普表示将采取报复行动",
@@ -181,8 +170,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时58分 ~ 12时34分]"
+          "appearance_count": 4,
+          "time_info": "[10时58分 ~ 13时13分]"
+        },
+        {
+          "title": "美布朗大学枪击案已致2死8重伤，特朗普最新发声",
+          "url": "https://news.ifeng.com/c/8p4RL9idhva",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时59分 ~ 09时00分]"
         },
         {
           "title": "特朗普：希望利率在一年内降至1%或更低",
@@ -230,6 +230,18 @@
           "time_info": "[09时00分 ~ 10时58分]"
         },
         {
+          "title": "3名美方人员遇袭死亡，特朗普誓言报复",
+          "url": "https://www.cls.cn/detail/2228813",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时58分 ~ 13时13分]"
+        },
+        {
           "title": "美方特使：按照美国总统特朗普的指示，美将解除对白俄罗斯钾肥的制裁",
           "url": "https://wallstreetcn.com/livenews/3020259",
           "source": "华尔街见闻-快讯",
@@ -242,16 +254,17 @@
           "time_info": "[05时10分 ~ 07时12分]"
         },
         {
-          "title": "3名美方人员遇袭死亡，特朗普誓言报复",
-          "url": "https://www.cls.cn/detail/2228813",
-          "source": "财联社热门",
+          "title": "特朗普：不确定经济政策能否带来中期选举的胜利",
+          "url": "https://wallstreetcn.com/livenews/3020317",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            10
+            17,
+            21,
+            27
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时58分 ~ 12时34分]"
+          "time_info": "[11时58分 ~ 13时13分]"
         },
         {
           "title": "特朗普说中国团结一心干大事",
@@ -310,18 +323,6 @@
           "time_info": "[08时59分 ~ 09时00分]"
         },
         {
-          "title": "特朗普：不确定经济政策能否带来中期选举的胜利",
-          "url": "https://wallstreetcn.com/livenews/3020317",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时58分 ~ 12时34分]"
-        },
-        {
           "title": "特朗普或因说漏嘴致间谍曝光",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%9B%A0%E8%AF%B4%E6%BC%8F%E5%98%B4%E8%87%B4%E9%97%B4%E8%B0%8D%E6%9B%9D%E5%85%89%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -349,8 +350,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时13分 ~ 12时34分]"
+          "appearance_count": 13,
+          "time_info": "[00时13分 ~ 13时13分]"
         },
         {
           "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
@@ -371,8 +372,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时58分 ~ 12时34分]"
+          "appearance_count": 3,
+          "time_info": "[11时58分 ~ 13时13分]"
         }
       ]
     },
@@ -390,8 +391,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时13分 ~ 12时34分]"
+          "appearance_count": 15,
+          "time_info": "[00时13分 ~ 13时13分]"
         },
         {
           "title": "宋雪涛2026美股展望：AI泡沫的内部熔点与外部拐点",
@@ -418,11 +419,29 @@
           "ranks": [
             1,
             14,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时58分 ~ 12时34分]"
+          "appearance_count": 4,
+          "time_info": "[10时58分 ~ 13时13分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "付鹏：前瞻2026市场核心主线——关注美债利率曲线与AI应用落地的三种可能【付鹏说13】",
+          "url": "https://wallstreetcn.com/premium/articles/3761351?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
         }
       ]
     }
