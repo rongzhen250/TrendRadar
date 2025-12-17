@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T14:19:49.353833+08:00",
-  "total_titles_processed": 1285,
+  "generated_at": "2025-12-17T15:16:10.638491+08:00",
+  "total_titles_processed": 1399,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 62,
       "titles": [
         {
           "title": "特朗普：认定委内瑞拉现政府是“外国恐怖组织”",
@@ -15,8 +15,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时44分 ~ 14时19分]"
+          "appearance_count": 9,
+          "time_info": "[10时44分 ~ 15时16分]"
+        },
+        {
+          "title": "特朗普签署公告，进一步限制外国公民入境美国",
+          "url": "https://news.ifeng.com/c/8p9E57zE6bJ",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时44分 ~ 15时16分]"
         },
         {
           "title": "特朗普称自己执政近一年来在经济方面取得了成功，但赢得中期选举很困难，赢的概率有多大？会有哪些影响？",
@@ -34,19 +45,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时16分 ~ 14时19分]"
-        },
-        {
-          "title": "特朗普签署公告，进一步限制外国公民入境美国",
-          "url": "https://news.ifeng.com/c/8p9E57zE6bJ",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时44分 ~ 14时19分]"
+          "appearance_count": 20,
+          "time_info": "[00时16分 ~ 15时16分]"
         },
         {
           "title": "“这是特朗普给泽连斯基的最后通牒：接受条件，否则就没机会了”",
@@ -107,11 +107,12 @@
           "ranks": [
             1,
             2,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时49分 ~ 14时19分]"
+          "appearance_count": 7,
+          "time_info": "[11时49分 ~ 15时16分]"
         },
         {
           "title": "特朗普下令封锁所有受制裁委油轮",
@@ -263,6 +264,30 @@
           "time_info": "[04时15分 ~ 05时13分]"
         },
         {
+          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
+          "url": "https://wallstreetcn.com/articles/3761525",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时15分 ~ 15时16分]"
+        },
+        {
+          "title": "马斯克又要给特朗普花钱了",
+          "url": "https://www.toutiao.com/trending/7584667287097986610/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时15分 ~ 15时16分]"
+        },
+        {
           "title": "特朗普称认定委政府是“恐怖组织”",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%AE%A4%E5%AE%9A%E5%A7%94%E6%94%BF%E5%BA%9C%E6%98%AF%E2%80%9C%E6%81%90%E6%80%96%E7%BB%84%E7%BB%87%E2%80%9D",
           "source": "百度热搜",
@@ -356,17 +381,6 @@
           "time_info": "[00时16分 ~ 01时17分]"
         },
         {
-          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
-          "url": "https://wallstreetcn.com/articles/3761525",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时15分 ~ 14时19分]"
-        },
-        {
           "title": "特朗普签署公告 进一步限制外国公民入境美国",
           "url": "https://flash.jin10.com/detail/20251217040248349800",
           "source": "金十数据",
@@ -414,18 +428,6 @@
           "time_info": "[11时49分 ~ 11时50分]"
         },
         {
-          "title": "马斯克又要给特朗普花钱了",
-          "url": "https://www.toutiao.com/trending/7584667287097986610/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时15分 ~ 14时19分]"
-        },
-        {
           "title": "特朗普：BBC把糟糕言论强加到我嘴里",
           "url": "https://www.toutiao.com/trending/7584299591064436779/",
           "source": "今日头条",
@@ -435,6 +437,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时44分 ~ 10时45分]"
+        },
+        {
+          "title": "特朗普长子订婚 女方是何许人",
+          "url": "https://www.toutiao.com/trending/7584611681938968083/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时15分 ~ 15时16分]"
         },
         {
           "title": "委内瑞拉政府：美国总统特朗普的封锁“完全不理性”，违反了自由贸易和航行自由。",
@@ -564,7 +577,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -663,7 +676,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -718,6 +731,19 @@
       "match_count": 14,
       "titles": [
         {
+          "title": "美股收盘：三大指数涨跌不一 特斯拉创历史新高",
+          "url": "https://www.cls.cn/detail/2231583",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[07时11分 ~ 15时16分]"
+        },
+        {
           "title": "非农超预期，美股低开，现货黄金小幅上涨，布油跌破60美元",
           "url": "https://wallstreetcn.com/articles/3761475",
           "source": "华尔街见闻",
@@ -728,19 +754,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时16分 ~ 07时11分]"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 特斯拉创历史新高",
-          "url": "https://www.cls.cn/detail/2231583",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时11分 ~ 14时19分]"
         },
         {
           "title": "能源业ETF收跌3%，领跌美股行业ETF，标普能源板块也跌将近3%",
