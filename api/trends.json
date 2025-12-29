@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-29T17:21:53.546856+08:00",
-  "total_titles_processed": 1361,
+  "generated_at": "2025-12-29T18:15:12.238265+08:00",
+  "total_titles_processed": 1438,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 73,
+      "match_count": 80,
       "titles": [
         {
           "title": "特朗普：不排除亲自前往乌克兰",
@@ -97,6 +97,21 @@
           "time_info": "[00时13分 ~ 07时12分]"
         },
         {
+          "title": "特朗普当众施压泽连斯基",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BD%93%E4%BC%97%E6%96%BD%E5%8E%8B%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            24,
+            20,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时41分 ~ 18时15分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基抵达美国佛罗里达州，即将会见美国总统特朗普。",
           "url": "https://wallstreetcn.com/livenews/3027672",
           "source": "华尔街见闻-快讯",
@@ -159,21 +174,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时11分 ~ 07时12分]"
-        },
-        {
-          "title": "特朗普当众施压泽连斯基",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BD%93%E4%BC%97%E6%96%BD%E5%8E%8B%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            24,
-            20,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时41分 ~ 17时21分]"
         },
         {
           "title": "与特朗普会晤，泽连斯基：20点“和平计划”有90%已完成",
@@ -286,6 +286,17 @@
           "time_info": "[05时11分 ~ 07时12分]"
         },
         {
+          "title": "俄罗斯总统新闻秘书佩斯科夫：普京和特朗普近期将再次通话，普京与泽连斯基通话目前不在议程之内。（IFX）",
+          "url": "https://wallstreetcn.com/livenews/3028074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
           "title": "MAGA“叛徒”喊话特朗普：我们能不能就关注美国？",
           "url": "https://news.ifeng.com/c/8pTlUTKXGWO",
           "source": "凤凰网",
@@ -309,6 +320,17 @@
           "time_info": "13时22分"
         },
         {
+          "title": "克里姆林宫称同意特朗普有关乌克兰和平进程更进一步的说法。（塔斯社）",
+          "url": "https://wallstreetcn.com/livenews/3028086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
           "title": "特朗普称俄乌均有意结束冲突，美乌将达成安全协议",
           "url": "https://wallstreetcn.com/livenews/3027691",
           "source": "华尔街见闻-快讯",
@@ -319,6 +341,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时11分 ~ 07时12分]"
+        },
+        {
+          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时19分 ~ 18时15分]"
         },
         {
           "title": "美银CEO：预计明年特朗普政府将缓和关税局势",
@@ -380,18 +414,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时13分 ~ 07时12分]"
-        },
-        {
-          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时19分 ~ 17时21分]"
         },
         {
           "title": "特朗普见泽连斯基前先与普京通话",
@@ -463,6 +485,18 @@
           "time_info": "[07时11分 ~ 07时12分]"
         },
         {
+          "title": "泽连斯基请求特朗普提供30-50年的安全保障。泽连斯基称，特朗普告诉他会考虑这一请求。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3028027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 18时15分]"
+        },
+        {
           "title": "美国将在特朗普任期内重返月球",
           "url": "https://www.douyin.com/hot/2350218",
           "source": "抖音",
@@ -507,6 +541,17 @@
           "time_info": "07时12分"
         },
         {
+          "title": "克里姆林宫：预计俄罗斯总统普京与美国总统特朗普的通话很快就会举行。",
+          "url": "https://flash.jin10.com/detail/20251229175227087800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
           "title": "美国总统特朗普和内塔尼亚胡将于美国东部时间周一下午1点会面。",
           "url": "https://wallstreetcn.com/livenews/3027760",
           "source": "华尔街见闻-快讯",
@@ -540,6 +585,17 @@
           "time_info": "07时12分"
         },
         {
+          "title": "克里姆林宫：重要的是要记住，美国总统特朗普曾表示，乌克兰正在失去领土，并可能失去更多领土。",
+          "url": "https://flash.jin10.com/detail/20251229175219434800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
           "title": "美国总统特朗普：俄罗斯想要结束这场战争。",
           "url": "https://flash.jin10.com/detail/20251229060057876800",
           "source": "金十数据",
@@ -571,6 +627,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "克里姆林宫：（就美国总统特朗普有关乌克兰和平协议更接近达成的言论）我们当然同意。",
+          "url": "https://flash.jin10.com/detail/20251229175043199800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "美国总统特朗普：俄乌谈判中有一两个棘手问题。",
@@ -645,7 +712,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -659,17 +726,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
-        },
-        {
-          "title": "泽连斯基请求特朗普提供30-50年的安全保障。泽连斯基称，特朗普告诉他会考虑这一请求。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3028027",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
         },
         {
           "title": "据华尔街日报：美国总统特朗普政府正在调查美国大型公司在招聘和晋升方面的举措。",
@@ -711,7 +767,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -758,6 +814,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：已告知美国总统特朗普，俄罗斯总统普京关于准备结束冲突的言论与其实际行动并不一致。",
+          "url": "https://flash.jin10.com/detail/20251229173217920800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "美国总统特朗普：俄罗斯将帮助乌克兰重建。普京曾慷慨地帮助了乌克兰，包括以低价供应能源。",
@@ -810,7 +877,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -832,7 +899,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -857,6 +924,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "泽连斯基：特朗普告诉我，他曾与普京讨论过20点计划。 在特朗普和欧洲领导人就文件达成同意后，与俄罗斯举行会晤是可能的。 希望乌克兰在和平计划签署的同时获得安全保障。 20点计划应提交公投，至少需要60天的停火才能举行公投。 乌克兰和美国将共同努力达成自由贸易协定。",
+          "url": "https://wallstreetcn.com/livenews/3028029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         }
       ]
     },
@@ -883,7 +961,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -915,11 +993,12 @@
           "url": "https://wallstreetcn.com/livenews/3028031",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 18时15分]"
         },
         {
           "title": "瑞银集团：我们仍持多头立场，并将我们对2026年3月、6月和9月的黄金价格目标上调至每盎司5000美元（此前为每盎司4500美元）。预计到2026年底，黄金价格将小幅下跌至每盎司4800美元。",
@@ -928,7 +1007,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         }
@@ -969,7 +1048,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         }
@@ -1013,7 +1092,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         }
@@ -1069,7 +1148,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         }
