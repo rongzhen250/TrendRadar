@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T20:24:01.371645+08:00",
-  "total_titles_processed": 1861,
+  "generated_at": "2026-01-16T21:32:59.200546+08:00",
+  "total_titles_processed": 1975,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 88,
+      "match_count": 93,
       "titles": [
         {
           "title": "特朗普暂缓对伊朗动武决定",
@@ -54,8 +54,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时17分 ~ 20时24分]"
+          "appearance_count": 11,
+          "time_info": "[15时17分 ~ 21时32分]"
         },
         {
           "title": "她给特朗普献了份大礼，诺奖气坏了",
@@ -91,8 +91,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时56分 ~ 20时24分]"
+          "appearance_count": 16,
+          "time_info": "[10时56分 ~ 21时32分]"
         },
         {
           "title": "航母打击群开往中东，特朗普：希望“速战速决”！伊朗进入最高战备状态，约2000枚导弹可覆盖美以基地！多国航班绕飞伊领空",
@@ -109,6 +109,18 @@
           "time_info": "[08时58分 ~ 20时24分]"
         },
         {
+          "title": "特朗普暂缓对伊朗发动军事打击，此举出于什么考虑？其后续可能有什么新动作？",
+          "url": "https://www.zhihu.com/question/1995430633518944539",
+          "source": "知乎",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时17分 ~ 21时32分]"
+        },
+        {
           "title": "特朗普称将“观望”伊朗局势发展，美油盘中跌3%",
           "url": "https://wallstreetcn.com/articles/3763320",
           "source": "华尔街见闻",
@@ -120,18 +132,6 @@
           "time_info": "[00时22分 ~ 05时13分]"
         },
         {
-          "title": "特朗普暂缓对伊朗发动军事打击，此举出于什么考虑？其后续可能有什么新动作？",
-          "url": "https://www.zhihu.com/question/1995430633518944539",
-          "source": "知乎",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时17分 ~ 20时24分]"
-        },
-        {
           "title": "美国总统特朗普：我们已经正式进入加沙“20点和平计划”的下一阶段。",
           "url": "https://flash.jin10.com/detail/20260116085218464800",
           "source": "金十数据",
@@ -141,6 +141,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
+        },
+        {
+          "title": "特朗普笑纳“二手”诺贝尔和平奖奖章，诺奖委员会发声明",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32398697",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时14分 ~ 21时32分]"
         },
         {
           "title": "美国总统特朗普：欧盟对美国科技公司非常不公平。",
@@ -193,7 +206,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         },
@@ -253,16 +266,16 @@
           "time_info": "07时13分"
         },
         {
-          "title": "特朗普笑纳“二手”诺贝尔和平奖奖章，诺奖委员会发声明",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32398697",
-          "source": "澎湃新闻",
+          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
+          "url": "https://wallstreetcn.com/articles/3763449",
+          "source": "华尔街见闻",
           "ranks": [
-            17,
-            18
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[18时14分 ~ 20时24分]"
+          "time_info": "[19时12分 ~ 21时32分]"
         },
         {
           "title": "白宫发布关于美国总统特朗普医疗保健计划的清单。 特朗普希望降低保费。 特朗普要求国会山编纂关于降低医药成本的（立法）协议。",
@@ -365,17 +378,6 @@
           "time_info": "[10时57分 ~ 12时02分]"
         },
         {
-          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
-          "url": "https://wallstreetcn.com/articles/3763449",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时12分 ~ 20时24分]"
-        },
-        {
           "title": "白宫新闻秘书莱维特：欧洲国家向格陵兰岛派兵不会影响美国总统特朗普关于格陵兰岛的决定。",
           "url": "https://flash.jin10.com/detail/20260116024657437800",
           "source": "金十数据",
@@ -422,6 +424,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时22分 ~ 01时25分]"
+        },
+        {
+          "title": "释新闻｜特朗普为何暂缓对伊朗动武？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32397863",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时23分 ~ 21时32分]"
         },
         {
           "title": "马查多把诺贝尔和平奖颁给特朗普",
@@ -624,17 +638,6 @@
           "time_info": "[06时14分 ~ 07时13分]"
         },
         {
-          "title": "释新闻｜特朗普为何暂缓对伊朗动武？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32397863",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时23分 ~ 20时24分]"
-        },
-        {
           "title": "俄回应特朗普对伊朗贸易伙伴加税",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BC%8A%E6%9C%97%E8%B4%B8%E6%98%93%E4%BC%99%E4%BC%B4%E5%8A%A0%E7%A8%8E%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -745,6 +748,17 @@
           "time_info": "10时57分"
         },
         {
+          "title": "由于特朗普政府将签署协议以抑制电价，一些电力公司股价在盘前下跌，Talen Energy下跌6.8%，Vistra下跌3.2%，Constellation Energy下跌2.6%。",
+          "url": "https://wallstreetcn.com/livenews/3038829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "美国白宫国家经济委员会主任哈塞特：特朗普希望美联储独立运作。",
           "url": "https://flash.jin10.com/detail/20260116034814439800",
           "source": "金十数据",
@@ -787,6 +801,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
+        },
+        {
+          "title": "部分美国电力公司股价盘前下跌，因特朗普政府将签署一项遏制电价的协议。Talen能源下跌6.8%，Vistra下跌3.2%，星座能源下跌2.6%。",
+          "url": "https://flash.jin10.com/detail/20260116211411832800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普正处于对美联储人事任命的决策阶段，他目前有几位心仪的人选来出任这一职位。特朗普将在未来几周内就美联储主席人选作出决定。",
@@ -932,6 +957,17 @@
           "time_info": "06时14分"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特（Hassett）：预计将出台有关住房的规定，界定机构投资者的角色。 我们已在就信用卡事宜与大行进行接触。 不认为在信用卡问题上需要立法。 MBS计划的目的是降低抵押贷款利差。 我将和特朗普一同前往达沃斯。",
+          "url": "https://wallstreetcn.com/livenews/3038816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "房贷利率跌至三年新低 特朗普2000亿购债计划初见成效",
           "url": "https://flash.jin10.com/detail/20260116010632374800",
           "source": "金十数据",
@@ -952,6 +988,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：特朗普与国会领导人讨论预算调和事宜。最终，共和党高层领导将在该问题上占据上风。",
+          "url": "https://flash.jin10.com/detail/20260116210135001800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：最高法院作出（不利）裁决后，特朗普可以立即实施10%的关税。",
+          "url": "https://flash.jin10.com/detail/20260116210001930800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "特朗普称加沙“和平委员会”已成立 成员名单稍后公布",
@@ -1023,7 +1081,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 52,
+      "match_count": 53,
       "titles": [
         {
           "title": "王毅同伊朗外长通话，连说3个“反对”",
@@ -1035,6 +1093,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时22分 ~ 07时13分]"
+        },
+        {
+          "title": "中方代表就伊朗局势发声：呼吁美方放下武力执念",
+          "url": "https://news.ifeng.com/c/8pxoIN8xmXt",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时18分 ~ 21时32分]"
         },
         {
           "title": "火药味拉满,美国酝酿搞伊朗",
@@ -1050,8 +1120,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[01时25分 ~ 20时24分]"
+          "appearance_count": 29,
+          "time_info": "[01时25分 ~ 21时32分]"
         },
         {
           "title": "王毅同伊朗外长通电话",
@@ -1085,18 +1155,6 @@
           "is_new": false,
           "appearance_count": 28,
           "time_info": "[00时22分 ~ 19时13分]"
-        },
-        {
-          "title": "中方代表就伊朗局势发声：呼吁美方放下武力执念",
-          "url": "https://news.ifeng.com/c/8pxoIN8xmXt",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时18分 ~ 20时24分]"
         },
         {
           "title": "美国宣布对伊朗实施新制裁",
@@ -1238,6 +1296,17 @@
           "time_info": "[08时58分 ~ 13时18分]"
         },
         {
+          "title": "普京与内塔尼亚胡就伊朗局势通电话",
+          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8E%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E5%B0%B1%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF%E9%80%9A%E7%94%B5%E8%AF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时14分 ~ 21时32分]"
+        },
+        {
           "title": "克里姆林宫：普京与伊朗总统通了电话，并将继续努力缓和地区局势。",
           "url": "https://flash.jin10.com/detail/20260116181010759800",
           "source": "金十数据",
@@ -1315,17 +1384,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时22分 ~ 03时18分]"
-        },
-        {
-          "title": "普京与内塔尼亚胡就伊朗局势通电话",
-          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8E%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E5%B0%B1%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF%E9%80%9A%E7%94%B5%E8%AF%9D",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时14分 ~ 20时24分]"
         },
         {
           "title": "新西兰驻伊朗大使馆因“安全形势恶化”暂时关闭",
@@ -1429,7 +1487,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         },
@@ -1506,7 +1564,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         },
@@ -1539,7 +1597,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         },
@@ -1632,6 +1690,17 @@
           "time_info": "18时14分"
         },
         {
+          "title": "上海合作组织关于伊朗局势的声明",
+          "url": "https://wallstreetcn.com/livenews/3038810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "白宫新闻秘书莱维特：伊朗已叫停800起处决行动。",
           "url": "https://flash.jin10.com/detail/20260116022649063800",
           "source": "金十数据",
@@ -1668,8 +1737,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[08时58分 ~ 20时24分]"
+          "appearance_count": 20,
+          "time_info": "[08时58分 ~ 21时32分]"
         },
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
@@ -1897,7 +1966,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "金价彻底杀疯了",
@@ -1924,6 +1993,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时24分 ~ 08时58分]"
+        },
+        {
+          "title": "美国经济数据强于预期、地缘局势缓和 金价周五延续跌势",
+          "url": "https://flash.jin10.com/detail/20260116212555636800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "金价飙升后银行保管箱出现「一箱难求」，部分银行租箱排队已排到一年后，投资者该如何安全存放黄金资产？",
@@ -2003,8 +2083,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时56分 ~ 20时24分]"
+          "appearance_count": 17,
+          "time_info": "[10时56分 ~ 21时32分]"
         },
         {
           "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
