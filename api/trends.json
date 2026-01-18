@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-18T16:15:57.859938+08:00",
-  "total_titles_processed": 940,
+  "generated_at": "2026-01-18T17:12:58.777148+08:00",
+  "total_titles_processed": 999,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 51,
       "titles": [
         {
           "title": "特朗普：对欧洲8国加征关税，直至完全收购格陵兰岛",
@@ -81,8 +81,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时13分 ~ 16时15分]"
+          "appearance_count": 14,
+          "time_info": "[00时13分 ~ 17时12分]"
         },
         {
           "title": "哈梅内伊：特朗普应被视为犯罪",
@@ -155,6 +155,21 @@
           "time_info": "[03时09分 ~ 09时02分]"
         },
         {
+          "title": "特朗普因格陵兰岛向欧洲8国加税",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%A0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E5%90%91%E6%AC%A7%E6%B4%B28%E5%9B%BD%E5%8A%A0%E7%A8%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            7,
+            9,
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时28分 ~ 17时12分]"
+        },
+        {
           "title": "土耳其总统府：特朗普邀请埃尔多安加入“加沙和平委员会”",
           "url": "https://wallstreetcn.com/livenews/3039132",
           "source": "华尔街见闻-快讯",
@@ -223,20 +238,6 @@
           "time_info": "[07时11分 ~ 09时02分]"
         },
         {
-          "title": "特朗普因格陵兰岛向欧洲8国加税",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%A0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E5%90%91%E6%AC%A7%E6%B4%B28%E5%9B%BD%E5%8A%A0%E7%A8%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            7,
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时28分 ~ 16时15分]"
-        },
-        {
           "title": "特朗普威胁起诉摩根大通，指控其对其进行“去银行化”",
           "url": "https://wallstreetcn.com/livenews/3039177",
           "source": "华尔街见闻-快讯",
@@ -245,11 +246,12 @@
             14,
             16,
             17,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时29分 ~ 16时15分]"
+          "appearance_count": 7,
+          "time_info": "[11时29分 ~ 17时12分]"
         },
         {
           "title": "目前仍不清楚特朗普是否会兑现格陵兰岛关税威胁",
@@ -276,6 +278,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时13分"
+        },
+        {
+          "title": "特朗普发黑白照：我是关税之王(图)",
+          "url": "https://news.ifeng.com/c/8q0nQjJB7h7",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时16分 ~ 17时12分]"
+        },
+        {
+          "title": "异军突起！周四与特朗普会面顺利，贝莱德的里德尔竞选美联储主席呼声渐起",
+          "url": "https://wallstreetcn.com/articles/3763532",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时16分 ~ 17时12分]"
         },
         {
           "title": "特朗普开价：永久席位10亿美元",
@@ -318,17 +345,6 @@
           "time_info": "[12时35分 ~ 15时13分]"
         },
         {
-          "title": "特朗普发黑白照：我是关税之王(图)",
-          "url": "https://news.ifeng.com/c/8q0nQjJB7h7",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时16分 ~ 16时15分]"
-        },
-        {
           "title": "美国总统特朗普表示，他从未向摩根大通CEO戴蒙提供美联储主席职位。",
           "url": "https://flash.jin10.com/detail/20260118081338309800",
           "source": "金十数据",
@@ -353,20 +369,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时02分 ~ 12时35分]"
-        },
-        {
-          "title": "异军突起！周四与特朗普会面顺利，贝莱德的里德尔竞选美联储主席呼声渐起",
-          "url": "https://wallstreetcn.com/articles/3763532",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时16分 ~ 16时15分]"
         },
         {
           "title": "特朗普关税美遭议员批评，民主党将阻止其征税",
@@ -421,6 +423,19 @@
           "time_info": "[11时29分 ~ 13时16分]"
         },
         {
+          "title": "美媒：特朗普为所谓“和平委员会”永久席位开价10亿美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32410157",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时13分 ~ 17时12分]"
+        },
+        {
           "title": "荷兰国际银行：欧洲国家不应对特朗普的关税威胁做出仓促反应",
           "url": "https://flash.jin10.com/detail/20260118085528695800",
           "source": "金十数据",
@@ -444,6 +459,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时35分 ~ 14时18分]"
+        },
+        {
+          "title": "特朗普称将对部分国家加征关税，直至“完全收购格陵兰岛”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32408980",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时13分 ~ 17时12分]"
         },
         {
           "title": "特朗普开价10亿卖委员会永久席位",
@@ -492,16 +519,16 @@
           "time_info": "[09时02分 ~ 11时29分]"
         },
         {
-          "title": "美媒：特朗普为所谓“和平委员会”永久席位开价10亿美元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32410157",
-          "source": "澎湃新闻",
+          "title": "特朗普和平委员会是什么机构",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E5%B9%B3%E5%A7%94%E5%91%98%E4%BC%9A%E6%98%AF%E4%BB%80%E4%B9%88%E6%9C%BA%E6%9E%84",
+          "source": "bilibili 热搜",
           "ranks": [
-            18,
-            17
+            12,
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时13分 ~ 16时15分]"
+          "time_info": "[16时15分 ~ 17时12分]"
         },
         {
           "title": "为了格陵兰特朗普再挥关税大棒：“不支持我的话就加征关税”",
@@ -515,15 +542,15 @@
           "time_info": "[00时13分 ~ 01时10分]"
         },
         {
-          "title": "特朗普称将对部分国家加征关税，直至“完全收购格陵兰岛”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32408980",
-          "source": "澎湃新闻",
+          "title": "约旦表示，阿卜杜拉国王收到了美国总统特朗普发出的加入加沙和平委员会的邀请。",
+          "url": "https://flash.jin10.com/detail/20260118162133517800",
+          "source": "金十数据",
           "ranks": [
-            20
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时13分 ~ 16时15分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
         },
         {
           "title": "特朗普称他“说服了自己”暂缓对伊朗采取军事行动",
@@ -543,7 +570,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         },
@@ -557,17 +584,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
-        },
-        {
-          "title": "特朗普和平委员会是什么机构",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E5%B9%B3%E5%A7%94%E5%91%98%E4%BC%9A%E6%98%AF%E4%BB%80%E4%B9%88%E6%9C%BA%E6%9E%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时15分"
         },
         {
           "title": "德国汽车游说组织VDA主席表示，美国总统特朗普威胁加征的关税成本将是巨大的。",
@@ -612,6 +628,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "特朗普发布个人黑白照：我是关税王",
+          "url": "https://www.toutiao.com/trending/7595813844887339062/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
         }
       ]
     },
@@ -627,8 +654,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时28分 ~ 16时15分]"
+          "appearance_count": 8,
+          "time_info": "[11时28分 ~ 17时12分]"
         },
         {
           "title": "据伊朗方面消息，短信（SMS）发送功能当地时间16日晚已恢复；互联网将采取阶梯式、分阶段的方式逐步恢复连接。",
@@ -670,11 +697,12 @@
             7,
             9,
             10,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时02分 ~ 16时15分]"
+          "appearance_count": 8,
+          "time_info": "[09时02分 ~ 17时12分]"
         },
         {
           "title": "伊朗网络服务恢复约1小时后再次中断",
@@ -734,11 +762,12 @@
           "ranks": [
             4,
             8,
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时18分 ~ 16时15分]"
+          "appearance_count": 4,
+          "time_info": "[14时18分 ~ 17时12分]"
         },
         {
           "title": "哈梅内伊：美国煽动策划了伊朗国内骚乱",
@@ -805,6 +834,18 @@
           "time_info": "[00时13分 ~ 09时02分]"
         },
         {
+          "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
+          "url": "https://wallstreetcn.com/articles/3763533",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时18分 ~ 17时12分]"
+        },
+        {
           "title": "翁家翌谈OpenAI模型跃迁",
           "url": "https://search.bilibili.com/all?keyword=%E7%BF%81%E5%AE%B6%E7%BF%8C%E8%B0%88OpenAI%E6%A8%A1%E5%9E%8B%E8%B7%83%E8%BF%81",
           "source": "bilibili 热搜",
@@ -817,18 +858,6 @@
           "time_info": "[09时01分 ~ 11时29分]"
         },
         {
-          "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
-          "url": "https://wallstreetcn.com/articles/3763533",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时18分 ~ 16时15分]"
-        },
-        {
           "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
           "url": "https://www.zhihu.com/question/1995914466735388213",
           "source": "知乎",
@@ -838,8 +867,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时35分 ~ 16时15分]"
+          "appearance_count": 6,
+          "time_info": "[12时35分 ~ 17时12分]"
         },
         {
           "title": "AI巨头正式对簿公堂：马斯克向OpenAI、微软索赔最高1340亿美元",
