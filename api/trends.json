@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T22:04:07.661112+08:00",
-  "total_titles_processed": 1937,
+  "generated_at": "2026-02-26T23:43:49.544541+08:00",
+  "total_titles_processed": 2056,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 57,
+      "match_count": 61,
       "titles": [
         {
           "title": "白宫官员希望以色列先打击伊朗",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时44分 ~ 22时04分]"
+          "appearance_count": 9,
+          "time_info": "[15时44分 ~ 23时43分]"
         },
         {
           "title": "如美发动攻击，中俄会否联手支援伊朗？外交部回应",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时39分 ~ 22时04分]"
+          "appearance_count": 7,
+          "time_info": "[17时39分 ~ 23时43分]"
         },
         {
           "title": "中方正密切关注伊朗局势发展",
@@ -37,11 +37,12 @@
           "ranks": [
             4,
             3,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时34分 ~ 22时04分]"
+          "appearance_count": 8,
+          "time_info": "[16时34分 ~ 23时43分]"
         },
         {
           "title": "如果美国对伊朗发动攻击，中国是否会和俄罗斯一道支持伊朗？外交部回应",
@@ -118,7 +119,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -176,6 +177,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
+        },
+        {
+          "title": "WTI原油期货跌幅收窄，重返65美元上方。 据伊朗国家电视台：“与美国的部分磋商是直接进行的，伊朗不会允许铀浓缩离开本国”。",
+          "url": "https://wallstreetcn.com/livenews/3059661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
+          "title": "一图看懂｜新一轮谈判在即，美军如何在伊朗周边布阵？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32657969",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时03分 ~ 23时43分]"
         },
         {
           "title": "伊朗外长抵达瑞士进行美伊第三轮谈判，伊朗总统认为伊美谈判「前景良好」，谈判焦点在于哪些方面？",
@@ -240,17 +264,6 @@
           "time_info": "[19时33分 ~ 20时39分]"
         },
         {
-          "title": "一图看懂｜新一轮谈判在即，美军如何在伊朗周边布阵？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32657969",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时03分 ~ 22时04分]"
-        },
-        {
           "title": "美财政部发布涉伊朗最新制裁名单",
           "url": "https://wallstreetcn.com/livenews/3059047",
           "source": "华尔街见闻-快讯",
@@ -261,6 +274,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时43分 ~ 06时22分]"
+        },
+        {
+          "title": "中国是否会与俄罗斯一道支持伊朗抵御美国侵略？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32653060",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时39分 ~ 23时43分]"
         },
         {
           "title": "伊朗外交部证实，伊朗代表团和外长已抵达日内瓦。",
@@ -314,7 +339,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -336,7 +361,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -396,6 +421,17 @@
           "time_info": "15时44分"
         },
         {
+          "title": "据伊朗Press TV：与美方谈判的部分环节是直接进行的。",
+          "url": "https://flash.jin10.com/detail/20260226231555981800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
           "title": "伊朗总统再次强调伊朗不会发展核武器",
           "url": "https://wallstreetcn.com/livenews/3059400",
           "source": "华尔街见闻-快讯",
@@ -405,6 +441,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
+        },
+        {
+          "title": "据伊朗Press TV：伊朗不会允许浓缩铀离开该国。",
+          "url": "https://flash.jin10.com/detail/20260226231433100800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "伊朗总统佩泽希齐扬：最高领袖禁止核武器，就意味着伊朗不会发展核武器。",
@@ -418,6 +465,17 @@
           "time_info": "15时44分"
         },
         {
+          "title": "市场消息：众议院民主党人寻求下周就伊朗战争权力决议案进行表决。",
+          "url": "https://flash.jin10.com/detail/20260226231227392800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
           "title": "美国务卿：美伊第三轮谈判将主要聚焦伊朗核计划",
           "url": "https://wallstreetcn.com/livenews/3059133",
           "source": "华尔街见闻-快讯",
@@ -427,17 +485,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
-        },
-        {
-          "title": "中国是否会与俄罗斯一道支持伊朗抵御美国侵略？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32653060",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时39分"
         },
         {
           "title": "伊朗提出的核协议方案包括在伊朗境内进行“象征性的核浓缩”，用于研究目的，尽管美国要求伊朗放弃所有核浓缩活动。",
@@ -556,7 +603,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -589,7 +636,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -633,7 +680,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -690,6 +737,17 @@
           "time_info": "[00时58分 ~ 09时07分]"
         },
         {
+          "title": "美向以部署 11 架 F-22 战斗机，并在伊周边集结航母，特朗普发出最后通牒，伊朗为何「还不屈服」？",
+          "url": "https://www.zhihu.com/question/2009941400440025198",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时46分 ~ 23时43分]"
+        },
+        {
           "title": "胡锡进：一个惊悚质疑指向特朗普，希望它不是真的",
           "url": "https://news.ifeng.com/c/8r2eU3KJRpW",
           "source": "凤凰网",
@@ -714,17 +772,6 @@
           "time_info": "[12时07分 ~ 17时39分]"
         },
         {
-          "title": "美向以部署 11 架 F-22 战斗机，并在伊周边集结航母，特朗普发出最后通牒，伊朗为何「还不屈服」？",
-          "url": "https://www.zhihu.com/question/2009941400440025198",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时46分 ~ 22时04分]"
-        },
-        {
           "title": "白宫官员：特朗普和泽连斯基通电话。",
           "url": "https://flash.jin10.com/detail/20260226022519108800",
           "source": "金十数据",
@@ -736,17 +783,6 @@
           "time_info": "02时52分"
         },
         {
-          "title": "特朗普政府劳工部提出有利于零工经济的工人身份认定规则。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3059618",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时04分"
-        },
-        {
           "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
           "url": "https://m.thepaper.cn/newsDetail_forward_32658507",
           "source": "澎湃新闻",
@@ -756,8 +792,30 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时36分 ~ 23时43分]"
+        },
+        {
+          "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
+          "url": "https://news.ifeng.com/c/8r3yuvat2ge",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[18时36分 ~ 22时04分]"
+          "time_info": "[19时33分 ~ 23时43分]"
+        },
+        {
+          "title": "特朗普政府劳工部提出有利于零工经济的工人身份认定规则。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3059618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时04分"
         },
         {
           "title": "阿斯顿马丁将裁员至多20%，来应对美国总统特朗普挑起的关税所造成的复杂形势。",
@@ -784,17 +842,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时52分 ~ 04时31分]"
-        },
-        {
-          "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
-          "url": "https://news.ifeng.com/c/8r3yuvat2ge",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时33分 ~ 22时04分]"
         },
         {
           "title": "梳理｜特朗普吹、民主党骂，回看美国史上最长国情咨文",
@@ -1002,7 +1049,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "静待英伟达财报，美股指高开，纳指涨幅扩大至1%，科技股普涨，现货黄金日内涨超1%",
@@ -1025,8 +1072,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时20分 ~ 22时04分]"
+          "appearance_count": 14,
+          "time_info": "[07时20分 ~ 23时43分]"
         },
         {
           "title": "美股三大期指集体走高 英伟达财报重磅来袭 | 今夜看点",
@@ -1054,6 +1101,17 @@
           "time_info": "[07时20分 ~ 16时34分]"
         },
         {
+          "title": "美股延续跌势，标普500指数下跌1.00%。",
+          "url": "https://flash.jin10.com/detail/20260226232112482800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
           "title": "网络股指数ETF收涨约2.3%，领跑美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3059060",
           "source": "华尔街见闻-快讯",
@@ -1078,6 +1136,18 @@
           "time_info": "[05时43分 ~ 06时22分]"
         },
         {
+          "title": "美股三大期指集体走高 英伟达盘前上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2296406",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时03分 ~ 23时43分]"
+        },
+        {
           "title": "C3.ai美股盘后跌24%，该公司第三财季营收逊色于市场预期。",
           "url": "https://wallstreetcn.com/livenews/3059057",
           "source": "华尔街见闻-快讯",
@@ -1095,17 +1165,6 @@
           "source": "华尔街见闻",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时03分 ~ 22时04分]"
-        },
-        {
-          "title": "美股三大期指集体走高 英伟达盘前上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2296406",
-          "source": "财联社热门",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -1141,7 +1200,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -1174,7 +1233,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -1229,9 +1288,42 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
+        },
+        {
+          "title": "全球航空业ETF涨2.08%，金融业ETF涨1.03%，在美股盘初领跑行业ETF，能源业ETF跌1.03%，半导体指数跌1.22%。",
+          "url": "https://wallstreetcn.com/livenews/3059638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
+          "title": "美股延续跌势，纳指下跌1.00%。",
+          "url": "https://flash.jin10.com/detail/20260226230206087800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
+          "title": "英伟达业绩未能消除AI担忧，美股开盘走低",
+          "url": "https://flash.jin10.com/detail/20260226225900057800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "金十图示：2026年02月25日（周三）美股热门股票行情一览（美股盘中）",
@@ -1392,7 +1484,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "英伟达仍然在与OpenAI谈判投资事宜，目前尚未敲定协议。",
@@ -1482,12 +1574,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "OpenAI：ChatGPT目前发生故障。",
+          "url": "https://wallstreetcn.com/livenews/3059629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金价高的已经推出红绳戒指了",
@@ -1537,6 +1640,80 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
+        },
+        {
+          "title": "投资者静待美伊谈判结果，金价保持稳定",
+          "url": "https://flash.jin10.com/detail/20260226225602551800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美元指数DXY短线上扬15点，报97.82。",
+          "url": "https://flash.jin10.com/detail/20260226232533363800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
+          "title": "新兴市场股票指数与外汇指数创历史新高，亚洲科技股飙涨。 明晟公司（MSCI）新兴市场外汇指数涨0.4%，连续第四个交易日走强，大部分货币兑美元升值。 MSCI新兴市场股票指数涨1.5%，连续第六个交易日上涨，2026年迄今累计涨幅达到大约15%。",
+          "url": "https://wallstreetcn.com/livenews/3059073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时20分]"
+        },
+        {
+          "title": "周三（2月25日）纽约尾盘，ICE美元指数跌0.16%，报97.690点，日内交投区间为98.002-97.622点整体呈现出W形走势。 彭博美元指数跌0.20%，报1187.44点，日内交投区间为1190.67-1186.54点。",
+          "url": "https://wallstreetcn.com/livenews/3059041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 06时22分]"
+        },
+        {
+          "title": "北美科技软件股指数ETF涨约2.7%，刷新日高至83.06美元。",
+          "url": "https://wallstreetcn.com/livenews/3059657",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
+          "title": "美元指数25日下跌",
+          "url": "https://flash.jin10.com/detail/20260226045409170800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时43分"
         }
       ]
     },
@@ -1579,47 +1756,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "新兴市场股票指数与外汇指数创历史新高，亚洲科技股飙涨。 明晟公司（MSCI）新兴市场外汇指数涨0.4%，连续第四个交易日走强，大部分货币兑美元升值。 MSCI新兴市场股票指数涨1.5%，连续第六个交易日上涨，2026年迄今累计涨幅达到大约15%。",
-          "url": "https://wallstreetcn.com/livenews/3059073",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时22分 ~ 07时20分]"
-        },
-        {
-          "title": "周三（2月25日）纽约尾盘，ICE美元指数跌0.16%，报97.690点，日内交投区间为98.002-97.622点整体呈现出W形走势。 彭博美元指数跌0.20%，报1187.44点，日内交投区间为1190.67-1186.54点。",
-          "url": "https://wallstreetcn.com/livenews/3059041",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时43分 ~ 06时22分]"
-        },
-        {
-          "title": "美元指数25日下跌",
-          "url": "https://flash.jin10.com/detail/20260226045409170800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
         }
       ]
     },
