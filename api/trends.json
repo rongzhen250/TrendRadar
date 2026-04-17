@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T16:21:32.365663+08:00",
-  "total_titles_processed": 1261,
+  "generated_at": "2026-04-17T18:05:17.811780+08:00",
+  "total_titles_processed": 1399,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 67,
+      "match_count": 69,
       "titles": [
         {
           "title": "美对伊启动“经济狂怒”行动、施压达成协议，伊朗斥为经济恐怖主义，称敌人误判战局",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时02分 ~ 16时21分]"
+          "appearance_count": 16,
+          "time_info": "[01时02分 ~ 18时05分]"
         },
         {
           "title": "伊朗：将就官员被暗杀追究美以责任",
@@ -57,8 +57,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时02分 ~ 16时21分]"
+          "appearance_count": 16,
+          "time_info": "[01时02分 ~ 18时05分]"
         },
         {
           "title": "伊朗披露击落美C-130细节",
@@ -198,6 +198,17 @@
           "time_info": "[02时58分 ~ 06时31分]"
         },
         {
+          "title": "伊朗在霍尔木兹海峡收费，为何新加坡急了？",
+          "url": "https://news.ifeng.com/c/8sOrmZQ0DT7",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时04分 ~ 18时05分]"
+        },
+        {
           "title": "巴基斯坦外交部称下一轮美伊会谈日期尚未确定，伊朗称伊斯兰堡是与美国进行谈判的唯一地点，为何是伊斯兰堡？",
           "url": "https://www.zhihu.com/question/2028145295125430592",
           "source": "知乎",
@@ -224,6 +235,45 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时58分 ~ 06时31分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 49 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2028238414336585868",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时25分 ~ 18时05分]"
+        },
+        {
+          "title": "她工资腰斩，却想学开飞机去轰炸伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32985465",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            11,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时25分 ~ 18时05分]"
+        },
+        {
+          "title": "英媒称伊朗部署中国卫星监视美军基地，中使馆：坚决反对造谣",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32990291",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            14,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时25分 ~ 18时05分]"
         },
         {
           "title": "美国中央司令部：美军保持警惕，并执行对试图进入或离开伊朗港口和沿海地区的船只的封锁。",
@@ -283,17 +333,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时34分 ~ 07时32分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 49 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2028238414336585868",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时25分 ~ 16时21分]"
         },
         {
           "title": "伊朗议会议长：伊朗将以谨慎态度对待黎以停火",
@@ -357,32 +396,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时41分 ~ 05时34分]"
-        },
-        {
-          "title": "她工资腰斩，却想学开飞机去轰炸伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32985465",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时25分 ~ 16时21分]"
-        },
-        {
-          "title": "英媒称伊朗部署中国卫星监视美军基地，中使馆：坚决反对造谣",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32990291",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时25分 ~ 16时21分]"
         },
         {
           "title": "伊朗：欢迎黎以停火",
@@ -690,6 +703,17 @@
           "time_info": "06时31分"
         },
         {
+          "title": "伊朗军队总司令：时刻扣住扳机迎击敌人",
+          "url": "https://flash.jin10.com/detail/20260417174056771800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
           "title": "欧洲央行首席经济学家Lane：没有看到关于伊朗影响的决定性信息。",
           "url": "https://wallstreetcn.com/livenews/3089484",
           "source": "华尔街见闻-快讯",
@@ -814,7 +838,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 58,
       "titles": [
         {
           "title": "特朗普：美伊下次会晤或在本周末举行",
@@ -880,6 +904,19 @@
           "time_info": "[01时02分 ~ 07时32分]"
         },
         {
+          "title": "中东迎“曙光”？特朗普：美伊下次会晤或在本周末，以黎同意停火10天！",
+          "url": "https://www.cls.cn/detail/2346891",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时25分 ~ 18时05分]"
+        },
+        {
           "title": "中东和平希望升温！特朗普：以黎领导人周四将进行34年来首次对话",
           "url": "https://www.cls.cn/detail/2346178",
           "source": "财联社热门",
@@ -891,17 +928,16 @@
           "time_info": "[01时02分 ~ 02时59分]"
         },
         {
-          "title": "中东迎“曙光”？特朗普：美伊下次会晤或在本周末，以黎同意停火10天！",
-          "url": "https://www.cls.cn/detail/2346891",
-          "source": "财联社热门",
+          "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
+          "url": "https://wallstreetcn.com/articles/3770182",
+          "source": "华尔街见闻",
           "ranks": [
-            6,
-            3,
-            5
+            9,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时25分 ~ 16时21分]"
+          "appearance_count": 6,
+          "time_info": "[09时25分 ~ 18时05分]"
         },
         {
           "title": "伊朗战争丨特朗普：伊朗已同意不拥有核武器",
@@ -913,18 +949,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时41分 ~ 05时34分]"
-        },
-        {
-          "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
-          "url": "https://wallstreetcn.com/articles/3770182",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时25分 ~ 16时21分]"
         },
         {
           "title": "以色列北部地区委员会负责人：特朗普将伊朗问题引入黎巴嫩局势是不合理的。",
@@ -947,6 +971,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "特朗普喊话意大利：你不帮我，我也不会帮你",
+          "url": "https://news.ifeng.com/c/8sOVPzGvey0",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时41分 ~ 18时05分]"
         },
         {
           "title": "美国总统特朗普：意大利（在发动伊朗战争方面）不支持我们，我们将来也不会支持他们。",
@@ -1022,15 +1057,26 @@
           "time_info": "[03时57分 ~ 04时41分]"
         },
         {
-          "title": "特朗普喊话意大利：你不帮我，我也不会帮你",
-          "url": "https://news.ifeng.com/c/8sOVPzGvey0",
+          "title": "伊朗战争丨特朗普称澳大利亚不出兵帮忙，澳总理反驳",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
           "ranks": [
-            8
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时41分 ~ 16时21分]"
+          "time_info": "[16时21分 ~ 18时05分]"
+        },
+        {
+          "title": "心心念念的大房子不让造，特朗普暴怒开喷",
+          "url": "https://news.ifeng.com/c/8sOn1dFNorh",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时04分 ~ 18时05分]"
         },
         {
           "title": "美国总统特朗普：提名Erica Schwartz担任疾控中心主任。",
@@ -1125,17 +1171,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时30分 ~ 06时31分]"
-        },
-        {
-          "title": "伊朗战争丨特朗普称澳大利亚不出兵帮忙，澳总理反驳",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时21分"
         },
         {
           "title": "特朗普：认为黎以将达成协议 预计未来一到两周内举行谈判",
@@ -1320,7 +1355,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -1471,7 +1506,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "停火延长预期提振市场，美股高开，台积电跌超1%，布油涨2%",
@@ -1484,6 +1519,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时02分 ~ 05时34分]"
+        },
+        {
+          "title": "中东紧张局势持续，美股勉强新高，纳指十二连涨，中概股指跑赢大盘，原油两连涨",
+          "url": "https://wallstreetcn.com/articles/3770109",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时25分 ~ 18时05分]"
         },
         {
           "title": "“反手做空，趁现在还来得及”！高盛交易员警告美股涨过头，抛出6笔对冲交易",
@@ -1526,15 +1572,15 @@
           "time_info": "[01时02分 ~ 09时25分]"
         },
         {
-          "title": "中东紧张局势持续，美股勉强新高，纳指十二连涨，中概股指跑赢大盘，原油两连涨",
-          "url": "https://wallstreetcn.com/articles/3770109",
+          "title": "这轮美股新高，散户集体踏空！大多头Tom Lee：下一波上涨将由他们主导",
+          "url": "https://wallstreetcn.com/articles/3770147",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时25分 ~ 16时21分]"
+          "appearance_count": 5,
+          "time_info": "[12时41分 ~ 18时05分]"
         },
         {
           "title": "周四（4月16日），美股行业ETF涨跌各异，能源业ETF、科技行业ETF、全球科技股指数ETF、网络股指数ETF至多涨1.47%，银行业ETF收跌0.38%，医疗业ETF跌0.79%，生物科技指数ETF跌1.06%，全球航空业ETF跌1.44%。",
@@ -1563,15 +1609,26 @@
           "time_info": "[04时41分 ~ 06时31分]"
         },
         {
-          "title": "这轮美股新高，散户集体踏空！大多头Tom Lee：下一波上涨将由他们主导",
-          "url": "https://wallstreetcn.com/articles/3770147",
-          "source": "华尔街见闻",
+          "title": "风头盖过英伟达！美股CPU双雄股价齐创新高 AI属性渐获市场认可",
+          "url": "https://www.cls.cn/detail/2346971",
+          "source": "财联社热门",
           "ranks": [
-            10
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时41分 ~ 16时21分]"
+          "time_info": "[14时29分 ~ 18时05分]"
+        },
+        {
+          "title": "一图看懂 | A股七姐妹vs美股七姐妹，今年谁更能涨？",
+          "url": "https://www.cls.cn/detail/2347485",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时04分 ~ 18时05分]"
         },
         {
           "title": "金十图示：2026年04月16日（周四）美股热门股票行情一览（美股收盘）",
@@ -1628,7 +1685,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -1642,17 +1699,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
-        },
-        {
-          "title": "风头盖过英伟达！美股CPU双雄股价齐创新高 AI属性渐获市场认可",
-          "url": "https://www.cls.cn/detail/2346971",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时29分"
         },
         {
           "title": "动物精神强势回归，散户无视伊朗冲突涌入美股",
