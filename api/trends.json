@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-28T18:44:10.009224+08:00",
-  "total_titles_processed": 1101,
+  "generated_at": "2026-05-28T22:27:48.724478+08:00",
+  "total_titles_processed": 1281,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "特朗普要求多国签《亚伯拉罕协议》，专家：警惕“美式陷阱”",
@@ -38,11 +38,12 @@
           "ranks": [
             10,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时56分 ~ 18时44分]"
+          "appearance_count": 5,
+          "time_info": "[09时56分 ~ 22时27分]"
         },
         {
           "title": "美国总统特朗普：将立法，使面向未来的数字资产市场结构（监管框架）法典化。",
@@ -165,8 +166,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时43分 ~ 18时44分]"
+          "appearance_count": 3,
+          "time_info": "[18时43分 ~ 22时27分]"
         },
         {
           "title": "“不在乎中期选举”，特朗普称美伊协议须“完美”，仍欲捆绑“亚伯拉罕协议”",
@@ -237,6 +238,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "特朗普调侃赫格塞思：他热衷战争",
+          "url": "https://v.ifeng.com/c/8tSottvMqyW",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         },
         {
           "title": "美国总统特朗普：伊朗以为他们能拖住我，但事实并非如此。",
@@ -358,6 +370,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "特朗普制定新规则以解决意外医疗账单的仲裁问题。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3110796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         },
         {
           "title": "特朗普政府要求在肯尼亚隔离埃博拉病毒接触人员，专家：在美国、德国治疗的效果更好",
@@ -484,7 +507,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "伊美“停火框架”草案披露：美国解除“海上封锁”并部分撤军，伊朗于一个月内逐步通航",
@@ -681,6 +704,19 @@
           "time_info": "09时56分"
         },
         {
+          "title": "伊朗对美国空军基地实施打击",
+          "url": "https://www.toutiao.com/trending/7644776648142753286/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时02分 ~ 22时27分]"
+        },
+        {
           "title": "美以袭击伊朗进入第 90 天，当前局势如何？哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2043104464907629617",
           "source": "知乎",
@@ -695,18 +731,6 @@
         },
         {
           "title": "伊朗对美国空军基地实施打击",
-          "url": "https://www.toutiao.com/trending/7644776648142753286/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时02分 ~ 18时44分]"
-        },
-        {
-          "title": "伊朗对美国空军基地实施打击",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AF%B9%E7%BE%8E%E5%9B%BD%E7%A9%BA%E5%86%9B%E5%9F%BA%E5%9C%B0%E5%AE%9E%E6%96%BD%E6%89%93%E5%87%BB",
           "source": "百度热搜",
           "ranks": [
@@ -715,6 +739,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时02分 ~ 18时44分]"
+        },
+        {
+          "title": "白宫否认伊媒曝光草案，标普转跌，鲁比奥称给伊朗谈判“一切成功的机会”，美油跌近6%",
+          "url": "https://wallstreetcn.com/articles/3773277",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         },
         {
           "title": "伊朗总统：伊朗和巴基斯坦领导人讨论了旨在结束战争的外交努力。 巴基斯坦希望当前外交努力能尽快取得最终结果。",
@@ -827,6 +862,17 @@
           "time_info": "14时02分"
         },
         {
+          "title": "美国纽约联储主席威廉姆斯：若没有人工智能方面的投资，美国的需求将会减弱。 美国劳动力市场整体表现相当不错。 不认为人工智能会导致长期的结构性失业。 伊朗冲突对通货膨胀的影响可能在几个月内达到峰值。 美国劳动力市场“相当平衡”。 伊朗冲突造成的供应链中断令人担忧。 美联储的货币政策略显紧缩。 更有效的沟通有助于政策的实施效果。",
+          "url": "https://wallstreetcn.com/livenews/3110786",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
+        },
+        {
           "title": "俄罗斯国家原子能公司负责人：决定推迟让工作人员返回伊朗布什尔核电站。",
           "url": "https://flash.jin10.com/detail/20260527233350098800",
           "source": "金十数据",
@@ -885,7 +931,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
@@ -896,8 +942,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时56分 ~ 18时44分]"
+          "appearance_count": 5,
+          "time_info": "[09时56分 ~ 22时27分]"
         },
         {
           "title": "AI热潮推动下，美股盘初美光涨5%，半导体股普涨，石油股下跌，金银油齐跌",
@@ -982,6 +1028,17 @@
           "time_info": "[05时45分 ~ 07时09分]"
         },
         {
+          "title": "美国4月PCE同比升3.8% 美股期指走低 Snowflake盘前大涨38% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2384590",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
+        },
+        {
           "title": "Nebius Group NV美股盘后涨14%，Situational Awareness报告称对该公司持股。",
           "url": "https://wallstreetcn.com/livenews/3110281",
           "source": "华尔街见闻-快讯",
@@ -1026,6 +1083,17 @@
           "time_info": "00时32分"
         },
         {
+          "title": "美股盘初，主要行业ETF涨跌不一，网络股指数ETF涨超1%，能源业ETF涨近1%，全球航空业ETF跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3110793",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
+        },
+        {
           "title": "周三（5月27日），美股行业ETF涨跌各异，能源业ETF收跌1.49%，半导体ETF、区域银行ETF、银行业ETF至多跌1.10%，日常消费品ETF、可选消费ETF至多涨1.76%，全球航空业ETF涨2.90%。",
           "url": "https://wallstreetcn.com/livenews/3110256",
           "source": "华尔街见闻-快讯",
@@ -1043,9 +1111,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
+        },
+        {
+          "title": "美股盘初：三大指数涨跌不一，Snowflake涨约33%，理想汽车跌约2%",
+          "url": "https://wallstreetcn.com/livenews/3110789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         },
         {
           "title": "小鹏集团第一季度营收130.3亿元人民币，预估131.6亿元人民币。 第一季度经营亏损18.7亿元人民币。 小鹏集团预计第二季度交付量100000至106000辆，市场预估96923辆。 小鹏集团预计第二季度营收196.0亿元人民币至208.0亿元人民币。 小鹏集团美股盘前涨近2%。",
@@ -1054,9 +1133,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
+        },
+        {
+          "title": "金十图示：2026年05月28日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260528213958724800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         },
         {
           "title": "亚马逊与Snowflake达成60亿美元协议，采购Graviton智能计算芯片。 Snowflake承诺在未来五年内在亚马逊云服务(AWS)上投入60亿美元用于Graviton计算和人工智能支出。 客户如Fetch和Hex正在亚马逊云服务(AWS)上利Snowflake的平台在受管数据上部署人工智能应用。 Snowflake美股盘后涨30%。",
@@ -1080,11 +1170,12 @@
           "url": "https://wallstreetcn.com/articles/3773316",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时43分 ~ 18时44分]"
+          "appearance_count": 3,
+          "time_info": "[18时43分 ~ 22时27分]"
         },
         {
           "title": "DeepSeek网页及API服务中断 现已恢复",
@@ -1111,37 +1202,20 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美伊新一轮互袭，全球股市承压，Snowflake美股盘前涨近35%，油价拉升4%，金价跌破4400美元关口",
-          "url": "https://wallstreetcn.com/articles/3773313",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时43分 ~ 18时44分]"
-        },
-        {
-          "title": "金价跌了反而不敢买了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E4%BA%86%E5%8F%8D%E8%80%8C%E4%B8%8D%E6%95%A2%E4%B9%B0%E4%BA%86%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时43分 ~ 18时44分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "Axios报道称，美国与伊朗达成协议，但仍需特朗普最终批准。 WTI原油期货短线下挫3.5美元，至87.36/桶。 邮轮股上涨，Viking涨1.1%，皇家加勒比邮轮涨2.3%。 美债价格涨幅扩大，10年期美债收益率跌5个基点至4.43%。",
+          "url": "https://wallstreetcn.com/livenews/3110810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
+        },
         {
           "title": "美债遭遇“百年最惨熊市”，“末日博士”彼得·希夫：真正的危机才刚开始",
           "url": "https://wallstreetcn.com/articles/3773219",
@@ -1169,8 +1243,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "Gemini联合SpaceX和xAI推出Command Center（指挥中心）。这是一项个性化的市场信息流（Market Feed）。",
+          "url": "https://wallstreetcn.com/livenews/3110808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
+        },
         {
           "title": "据华尔街日报：谷歌(GOOG.O)员工因在预测市场Polymarket上进行内幕交易被起诉。",
           "url": "https://flash.jin10.com/detail/20260528062625089800",
@@ -1181,6 +1266,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美伊新一轮互袭，全球股市承压，Snowflake美股盘前涨近35%，油价拉升4%，金价跌破4400美元关口",
+          "url": "https://wallstreetcn.com/articles/3773313",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时43分 ~ 22时27分]"
+        },
+        {
+          "title": "金价跌了反而不敢买了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E4%BA%86%E5%8F%8D%E8%80%8C%E4%B8%8D%E6%95%A2%E4%B9%B0%E4%BA%86%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时43分 ~ 18时44分]"
         }
       ]
     },
