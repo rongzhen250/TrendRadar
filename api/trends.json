@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-12T17:55:46.120193+08:00",
-  "total_titles_processed": 1072,
+  "generated_at": "2026-06-12T20:49:40.280287+08:00",
+  "total_titles_processed": 1236,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 61,
       "titles": [
         {
           "title": "国际油价飙升！特朗普：今晚将重创伊朗，“在不久的将来”将占领哈尔克岛",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时02分 ~ 17时55分]"
+          "appearance_count": 10,
+          "time_info": "[02时02分 ~ 20时49分]"
         },
         {
           "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时14分 ~ 17时55分]"
+          "appearance_count": 6,
+          "time_info": "[08时14分 ~ 20时49分]"
         },
         {
           "title": "特朗普再次180度大转弯，全世界都目瞪口呆",
@@ -270,6 +270,40 @@
           "time_info": "[13时28分 ~ 13时29分]"
         },
         {
+          "title": "特朗普涉伊朗表态“大转弯”，以总理“猝不及防”",
+          "url": "https://news.ifeng.com/c/8ttnDWEmW7E",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 20时49分]"
+        },
+        {
+          "title": "内塔尼亚胡：特朗普没提前告诉我",
+          "url": "https://news.ifeng.com/c/8ttf3o3HpAs",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 20时49分]"
+        },
+        {
+          "title": "特朗普说了30多次“即将达成协议”，市场却一直相信他",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33365641",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 20时49分]"
+        },
+        {
           "title": "特朗普称80岁生日愿望是“世界和平”，转头宣布狠狠打击伊朗",
           "url": "https://m.thepaper.cn/newsDetail_forward_33357490",
           "source": "澎湃新闻",
@@ -347,17 +381,6 @@
           "time_info": "04时26分"
         },
         {
-          "title": "特朗普涉伊朗表态“大转弯”，以总理“猝不及防”",
-          "url": "https://news.ifeng.com/c/8ttnDWEmW7E",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时55分"
-        },
-        {
           "title": "美国总统特朗普：海峡或许会在周六或下周一开放。",
           "url": "https://flash.jin10.com/detail/20260612040741191800",
           "source": "金十数据",
@@ -378,17 +401,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时15分"
-        },
-        {
-          "title": "内塔尼亚胡：特朗普没提前告诉我",
-          "url": "https://news.ifeng.com/c/8ttf3o3HpAs",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时55分"
         },
         {
           "title": "美国总统特朗普：这项协议对美国和中东来说非常好，我认为对伊朗也会很棒。",
@@ -512,17 +524,6 @@
           "time_info": "04时26分"
         },
         {
-          "title": "特朗普说了30多次“即将达成协议”，市场却一直相信他",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33365641",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时55分"
-        },
-        {
           "title": "伊朗国防部回应特朗普夺岛言论",
           "url": "https://flash.jin10.com/detail/20260612012243938800",
           "source": "金十数据",
@@ -562,7 +563,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -595,7 +596,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -644,6 +645,17 @@
           "time_info": "04时26分"
         },
         {
+          "title": "据CNN：内塔尼亚胡与特朗普保持定期通话，包括在特朗普声称以色列是中东地区支持停火协议的几个国家之一之后的周四晚间也进行了通话。",
+          "url": "https://flash.jin10.com/detail/20260612201004240800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
+        },
+        {
           "title": "美国总统特朗普：伊朗不会拥有核武器。",
           "url": "https://flash.jin10.com/detail/20260612040253995800",
           "source": "金十数据",
@@ -680,7 +692,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 43,
+      "match_count": 49,
       "titles": [
         {
           "title": "世界银行警告：伊朗战争冲击下 全球经济增速将降至疫情以来最低水平",
@@ -733,6 +745,29 @@
           "time_info": "[13时28分 ~ 13时29分]"
         },
         {
+          "title": "伊朗战争推高通胀压力，欧洲央行近三年来首次加息！",
+          "url": "https://wallstreetcn.com/articles/3774438",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时14分 ~ 20时49分]"
+        },
+        {
+          "title": "伊朗发布“头骨世界杯”海报",
+          "url": "https://www.toutiao.com/trending/7650111233802731539/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
+        },
+        {
           "title": "伊朗宣布对所有船只关闭霍尔木兹海峡，打击两艘非法通过海峡船只，如何解读？可能会带来哪些连锁反应？",
           "url": "https://www.zhihu.com/question/2048301839200642048",
           "source": "知乎",
@@ -767,18 +802,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时15分"
-        },
-        {
-          "title": "伊朗战争推高通胀压力，欧洲央行近三年来首次加息！",
-          "url": "https://wallstreetcn.com/articles/3774438",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时14分 ~ 17时55分]"
         },
         {
           "title": "伊朗媒体：已故最高领袖葬礼推迟举行",
@@ -828,6 +851,17 @@
           "time_info": "[02时02分 ~ 04时26分]"
         },
         {
+          "title": "伊朗方面公布伊美谅解备忘录新细节",
+          "url": "https://news.ifeng.com/c/8ttmPg8dMjP",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 20时49分]"
+        },
+        {
           "title": "据伊朗法尔斯通讯社：伊朗部队阻止一艘未经协调的“违规油轮”进入霍尔木兹海峡。",
           "url": "https://flash.jin10.com/detail/20260612060451925800",
           "source": "金十数据",
@@ -863,17 +897,6 @@
           "time_info": "02时02分"
         },
         {
-          "title": "伊朗方面公布伊美谅解备忘录新细节",
-          "url": "https://news.ifeng.com/c/8ttmPg8dMjP",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时55分"
-        },
-        {
           "title": "伊朗国家媒体援引军方消息报道称：一艘油轮得到伊斯兰革命卫队海军警告，被迫遵守“霍尔木兹海峡禁航法”。",
           "url": "https://wallstreetcn.com/livenews/3118443",
           "source": "华尔街见闻-快讯",
@@ -883,6 +906,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时15分"
+        },
+        {
+          "title": "油价下挫5%！伊朗公布伊美谅解备忘录新细节，霍尔木兹海峡或30天内重开",
+          "url": "https://wallstreetcn.com/articles/3774522",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
         },
         {
           "title": "据伊朗媒体：伊朗阿巴斯港传出两次爆炸声，来源不明。",
@@ -927,6 +961,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "内塔尼亚胡称绝不会让伊朗有核武器",
+          "url": "https://wallstreetcn.com/livenews/3118879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
         },
         {
           "title": "Trafigura与Vitol在（美国和以色列发动伊朗）战争引发供应紊乱期间向亚洲销售更多委内瑞拉石油。",
@@ -1001,9 +1046,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
+        },
+        {
+          "title": "美媒：以色列施压阻止解冻伊朗资产作为停火协议的一部分",
+          "url": "https://flash.jin10.com/detail/20260612201341026800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
         },
         {
           "title": "伊朗武装部队：如果美国再次企图对伊朗发动攻击，将会遭到比以往更加严厉的回应。 石油和天然气出口要么对所有人开放，要么对任何人都不开放。",
@@ -1045,7 +1101,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -1056,7 +1112,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -1100,7 +1156,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -1111,7 +1167,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -1136,6 +1192,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时47分"
+        },
+        {
+          "title": "据CNN援引消息人士称，以色列正施压阻止在停火协议中解冻伊朗资产的部分。",
+          "url": "https://flash.jin10.com/detail/20260612200843219800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
         },
         {
           "title": "伊朗外交部发言人：如果伊朗打算在压力和威胁下放弃其原则立场，那我们在一年前就会这么做了。",
@@ -1166,9 +1233,20 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
+        },
+        {
+          "title": "伊媒称伊朗未就放弃霍尔木兹海峡管理权作出承诺",
+          "url": "https://wallstreetcn.com/livenews/3118852",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
         }
       ]
     },
@@ -1184,8 +1262,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时14分 ~ 17时55分]"
+          "appearance_count": 6,
+          "time_info": "[08时14分 ~ 20时49分]"
         },
         {
           "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
@@ -1360,6 +1438,47 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
+          "url": "https://wallstreetcn.com/articles/3774400",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时02分 ~ 13时29分]"
+        },
+        {
+          "title": "瞄准AI代理赛道 OpenAI收购云端平台强化Codex竞争力",
+          "url": "https://www.cls.cn/detail/2397742",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 13时29分]"
+        },
+        {
+          "title": "OpenAI被逼入价格战？企业都学聪明了：中国模型“极致性价比”！",
+          "url": "https://www.cls.cn/detail/2398139",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 3,
       "titles": [
@@ -1433,7 +1552,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         }
@@ -1450,7 +1569,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -1464,36 +1583,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
-          "url": "https://wallstreetcn.com/articles/3774400",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时02分 ~ 13时29分]"
-        },
-        {
-          "title": "瞄准AI代理赛道 OpenAI收购云端平台强化Codex竞争力",
-          "url": "https://www.cls.cn/detail/2397742",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时28分 ~ 13时29分]"
         }
       ]
     },
@@ -1536,9 +1625,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 20时49分]"
         }
       ]
     }
