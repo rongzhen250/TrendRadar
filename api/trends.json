@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T13:25:03.621630+08:00",
-  "total_titles_processed": 867,
+  "generated_at": "2026-07-13T17:16:24.012092+08:00",
+  "total_titles_processed": 1073,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 62,
+      "match_count": 69,
       "titles": [
         {
           "title": "伊朗关闭霍尔木兹海峡、打击美在中东目标，美军对伊发动新一轮袭击、多地传出爆炸声",
@@ -128,8 +128,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 13时25分]"
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 17时16分]"
         },
         {
           "title": "伊朗否认布什尔核电站区域遭袭",
@@ -611,7 +611,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -622,9 +622,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
+        },
+        {
+          "title": "伊朗驻伦敦大使：我们将在霍尔木兹海峡设立临时海上安全走廊，并已正式通报国际海事组织（IMO）。美国通过违反停火谅解协议，并将船只引向一条危险的平行航线，正在威胁这一战略水道的安全。",
+          "url": "https://flash.jin10.com/detail/20260713170535016800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         },
         {
           "title": "中东局势追踪：伊朗、阿曼展开通航磋商 霍尔木兹海峡再度关闭",
@@ -647,6 +658,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
+        },
+        {
+          "title": "美军称对伊朗发起新一轮打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33572651",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         },
         {
           "title": "据伊朗迈赫尔通讯社：初步报告称在布什尔省部分地区传出爆炸声。",
@@ -677,7 +699,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -688,7 +710,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -699,9 +721,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
+        },
+        {
+          "title": "伊朗外交部：伊朗未攻击地区内任何国家，军事打击仅针对美国据点，以回应美国的攻击。德黑兰已多次敦促邻国不要允许美国或以色列利用其领土对伊朗发动攻击。",
+          "url": "https://flash.jin10.com/detail/20260713170045838800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         },
         {
           "title": "伊朗军方谴责美国屡次“非法袭击”",
@@ -710,7 +743,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -726,15 +759,37 @@
           "time_info": "04时50分"
         },
         {
+          "title": "伊朗外交部：关于阿曼，问题也非常明确。查阅历史记录可知，自20世纪70年代、自1968年以来，海上航行通道，即所谓的TSS（分道通航制），主要位于阿曼领海范围内，我们从未对此提出过异议。但美国和以色列对伊朗发动袭击之后，我们认为自己有义务采取必要措施，防止导致伊朗遭受袭击和地区不安全的灾难再次发生。",
+          "url": "https://flash.jin10.com/detail/20260713165957732800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        },
+        {
           "title": "据伊朗媒体7月13日报道，巴林一处美商业机构遭袭起火。（CCTV国际时讯）",
           "url": "https://wallstreetcn.com/livenews/3132596",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
+        },
+        {
+          "title": "伊朗：俄罗斯外长拉夫罗夫计划访问德黑兰。",
+          "url": "https://wallstreetcn.com/livenews/3132728",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         },
         {
           "title": "伊朗学者：伊方寻求推进霍尔木兹海峡管理新框架",
@@ -748,6 +803,17 @@
           "time_info": "00时45分"
         },
         {
+          "title": "伊朗外交部：在谅解备忘录中列入黎巴嫩，恰恰体现了伊朗的责任担当，也体现了伊朗在维护地区和国际和平与安全方面认真、真诚的态度。我们在备忘录第一条中强调的，是结束包括黎巴嫩在内的所有战线的战争，并尊重黎巴嫩的领土完整和国家主权。",
+          "url": "https://flash.jin10.com/detail/20260713165928455800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        },
+        {
           "title": "据伊通社（IRNA）：美国对伊朗西南部马赫夏赫尔港水泵站的空袭造成1人死亡，4人受伤。",
           "url": "https://flash.jin10.com/detail/20260713084107718800",
           "source": "金十数据",
@@ -757,12 +823,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "伊朗外交部：我们对阿曼朋友的期望是，在维护海峡两岸国家主权与安全方面给予必要合作。我们不为任何人做决定。",
+          "url": "https://flash.jin10.com/detail/20260713165811260800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "特朗普立下数千枚导弹“报复遗嘱”，万斯可以不听吗？",
@@ -806,8 +883,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 13时25分]"
+          "appearance_count": 4,
+          "time_info": "[09时31分 ~ 17时16分]"
         },
         {
           "title": "特朗普在对伊战争上“没有什么可以向美国选民兜售的”",
@@ -870,6 +947,17 @@
           "time_info": "[06时37分 ~ 07时42分]"
         },
         {
+          "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
+          "url": "https://news.ifeng.com/c/8uj34x8QE0R",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        },
+        {
           "title": "美国总统特朗普：59%的支持率。通胀下降，油气价格也在降低。",
           "url": "https://flash.jin10.com/detail/20260713090402054800",
           "source": "金十数据",
@@ -879,6 +967,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "曝特朗普登上伊朗复仇名单",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E7%99%BB%E4%B8%8A%E4%BC%8A%E6%9C%97%E5%A4%8D%E4%BB%87%E5%90%8D%E5%8D%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "AI恐慌蔓延，美股盘前存储芯片股普跌，SK海力士暴跌15.4%创历史最大跌幅，原油上涨，黄金下跌",
+          "url": "https://wallstreetcn.com/articles/3776754",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        },
+        {
+          "title": "布伦特原油期货周一亚市早盘高开3%，美股期货小幅走低，纳斯达克100指数期货跌0.2%。此前美伊冲突升级。",
+          "url": "https://wallstreetcn.com/livenews/3132438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时37分 ~ 07时42分]"
+        },
+        {
+          "title": "美股三大股指期货周一低开，其中纳指期货跌0.3%。",
+          "url": "https://flash.jin10.com/detail/20260713060020016800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时37分"
         }
       ]
     },
@@ -909,35 +1048,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "布伦特原油期货周一亚市早盘高开3%，美股期货小幅走低，纳斯达克100指数期货跌0.2%。此前美伊冲突升级。",
-          "url": "https://wallstreetcn.com/livenews/3132438",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时37分 ~ 07时42分]"
-        },
-        {
-          "title": "美股三大股指期货周一低开，其中纳指期货跌0.3%。",
-          "url": "https://flash.jin10.com/detail/20260713060020016800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时37分"
         }
       ]
     }
