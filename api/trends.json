@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T19:37:31.900857+08:00",
-  "total_titles_processed": 1454,
+  "generated_at": "2026-08-14T20:39:23.926627+08:00",
+  "total_titles_processed": 1573,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
@@ -49,11 +49,12 @@
           "source": "凤凰网",
           "ranks": [
             2,
-            1
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时53分 ~ 19时37分]"
+          "appearance_count": 6,
+          "time_info": "[17时53分 ~ 20时39分]"
         },
         {
           "title": "鲁比奥吐槽：特朗普总先发帖再通知，我都不知道自己要当国务卿",
@@ -90,6 +91,17 @@
           "time_info": "[09时00分 ~ 13时25分]"
         },
         {
+          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
+          "url": "https://www.zhihu.com/question/2070813507499643585",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时53分 ~ 20时39分]"
+        },
+        {
           "title": "据Axios：特朗普女婿库什纳计划下周访问以色列，进行关于加沙的会谈。",
           "url": "https://flash.jin10.com/detail/20260814040533982800",
           "source": "金十数据",
@@ -123,17 +135,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时44分 ~ 06时31分]"
-        },
-        {
-          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
-          "url": "https://www.zhihu.com/question/2070813507499643585",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时53分 ~ 19时37分]"
         },
         {
           "title": "特朗普品牌马尔代夫度假村推迟数字代币计划，伊朗战争扰乱地区旅游",
@@ -204,6 +205,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时44分 ~ 00时45分]"
+        },
+        {
+          "title": "内塔尼亚胡选战陷困境 特朗普迟迟未表态力挺",
+          "url": "https://flash.jin10.com/detail/20260814200838358800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
         },
         {
           "title": "特朗普的美军科技路线有多矛盾？中东搞无人战争联盟，航母却要退回蒸汽时代",
@@ -419,11 +431,12 @@
           "ranks": [
             3,
             4,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时44分 ~ 19时37分]"
+          "appearance_count": 19,
+          "time_info": "[00时44分 ~ 20时39分]"
         },
         {
           "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
@@ -449,6 +462,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时44分 ~ 09时01分]"
+        },
+        {
+          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
+          "url": "https://wallstreetcn.com/articles/3779385",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[09时00分 ~ 20时39分]"
         },
         {
           "title": "DeepSeek发布调价公告",
@@ -482,17 +509,18 @@
           "time_info": "[00时44分 ~ 09时01分]"
         },
         {
-          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
-          "url": "https://wallstreetcn.com/articles/3779385",
+          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
+          "url": "https://wallstreetcn.com/articles/3779390",
           "source": "华尔街见闻",
           "ranks": [
             9,
+            8,
             7,
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时00分 ~ 19时37分]"
+          "appearance_count": 10,
+          "time_info": "[11时24分 ~ 20时39分]"
         },
         {
           "title": "DeepSeek Harness发布",
@@ -509,19 +537,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时44分 ~ 09时00分]"
-        },
-        {
-          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
-          "url": "https://wallstreetcn.com/articles/3779390",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时24分 ~ 19时37分]"
         },
         {
           "title": "DeepSeek智能体曝光！人人用得起的Agent？",
@@ -600,6 +615,18 @@
           "time_info": "[00时44分 ~ 04时31分]"
         },
         {
+          "title": "如何评价 DeepSeek 与北大联合发布的新论文，有哪些亮点？对 Agent 发展有什么影响？",
+          "url": "https://www.zhihu.com/question/2071375581464343126",
+          "source": "知乎",
+          "ranks": [
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时53分 ~ 20时39分]"
+        },
+        {
           "title": "怎么看 DeepSeek Harness 正式开源，采用一切皆插件的架构？",
           "url": "https://www.zhihu.com/question/2071348486667237276",
           "source": "知乎",
@@ -612,17 +639,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时50分 ~ 06时31分]"
-        },
-        {
-          "title": "如何评价 DeepSeek 与北大联合发布的新论文，有哪些亮点？对 Agent 发展有什么影响？",
-          "url": "https://www.zhihu.com/question/2071375581464343126",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时53分 ~ 19时37分]"
         },
         {
           "title": "如何看待 DeepSeek 撤回 v4Pro 正式版的公告？",
@@ -728,7 +744,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "伊朗：将以持久战消耗美国",
@@ -958,6 +974,17 @@
           "time_info": "06时31分"
         },
         {
+          "title": "伊朗称拦截并摧毁一架MQ-9无人机",
+          "url": "https://wallstreetcn.com/livenews/3149735",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
           "title": "美国副总统万斯谈及伊朗：美国手上有诸多可用于应对伊朗的手段。首要目标是让美国的石油与汽油维持低价。最终目标同样是让霍尔木兹海峡恢复稳定，油价回归平稳。",
           "url": "https://wallstreetcn.com/livenews/3149312",
           "source": "华尔街见闻-快讯",
@@ -982,8 +1009,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时53分 ~ 19时37分]"
+          "appearance_count": 6,
+          "time_info": "[17时53分 ~ 20时39分]"
         },
         {
           "title": "OpenAI：GPT-5.6 Sol超高速模式（UltraFast Mode）已向部分客户群体开放有限预览。",
@@ -1416,11 +1443,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时24分 ~ 19时37分]"
+          "appearance_count": 8,
+          "time_info": "[13时24分 ~ 20时39分]"
         },
         {
           "title": "如何看待 10 年期、 30 年期美债中标利率都达到 2007 年全球金融危机以来最高水平？",
@@ -1459,6 +1487,45 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美国零售销售数据公布后，标普500指数期货升至盘中高点，美国国债上涨，美元指数跌幅扩大。",
+          "url": "https://wallstreetcn.com/livenews/3149766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
+          "title": "美元指数13日下跌",
+          "url": "https://flash.jin10.com/detail/20260814032112550800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "周四（8月13日）纽约尾盘，ICE美元指数下跌0.05%，报99.964点，日内交投区间为99.672-99.972点。 彭博美元指数跌0.05%，报1203.75点。",
+          "url": "https://wallstreetcn.com/livenews/3149294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
@@ -1484,34 +1551,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时00分 ~ 11时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美元指数13日下跌",
-          "url": "https://flash.jin10.com/detail/20260814032112550800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时31分"
-        },
-        {
-          "title": "周四（8月13日）纽约尾盘，ICE美元指数下跌0.05%，报99.964点，日内交投区间为99.672-99.972点。 彭博美元指数跌0.05%，报1203.75点。",
-          "url": "https://wallstreetcn.com/livenews/3149294",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时31分"
         }
       ]
     }
